@@ -21,7 +21,7 @@ nav a {
     display:block;
     padding: 20px 15px;
     text-decoration: none;
-    font-family: Arial, serif;
+    font-family: 'Open Sans', sans-serif;
     color:#f2f2f2;
     text-align: center;
 }
@@ -68,6 +68,9 @@ aside {
     position: relative;
     margin-top: -20%;
     text-align: center;
+}
+h1 {
+    font-family: 'Playfair Display', serif;
 }
 a {
     text-decoration: none;
