@@ -76,9 +76,9 @@ footer {
 } /* Toka rivi kuvia. */
 
 .kohteet {
-    width: 60%;
-    margin-bottom: 2%;
-    margin-top: 2%;
+    display: block;
+    width: 100%;
+    height: auto;
 } /* Itse kuvat, ja vain kuvat. */
 
 main {
@@ -87,27 +87,29 @@ main {
 
 .hoveri {
     position: absolute;
-    top: 4%;
-    left: 20%;
-    height: 84.8%;
-    width: 60%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
     opacity: 0;
     transition: .5s ease;
-    background-color: black;
+    background-color: #008CBA;
 } /* Laatikko joka ilmestyy kun hiiren vie kuvan päälle. */
 
 
 .rivi-1:hover .hoveri {
-    opacity: 70%;
+    opacity: 1;
 } /* Jos tän ottaa pois, ei mitään hoveriefektiä tapahdu. */
 
 .rivi-2:hover .hoveri {
-    opacity: 70%;
+    opacity: 1;
 }
 
 .teksti {
-    color: aliceblue;
-    font-family: 'calibri', sans-serif;
+    color: white;
+    font-size: 20px;
     position: absolute;
     top: 50%;
     left: 50%;
