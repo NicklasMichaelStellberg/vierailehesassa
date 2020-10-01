@@ -7,13 +7,13 @@ body {
     width: 100%;
     height: auto;
     overflow: hidden;
-    background-color: #c4a1a2;
+    background-color: #E3B505;
 }
 
 /* Navigaatio */
 nav {
     width: 100%;
-    background: black;
+    background: #084C61;
     overflow: auto;
 }
 nav a {
@@ -21,12 +21,12 @@ nav a {
     display:block;
     padding: 20px 15px;
     text-decoration: none;
-    font-family: Arial, serif;
+    font-family: 'Open Sans', sans-serif;
     color:#f2f2f2;
     text-align: center;
 }
 nav a:hover  {
-    background:purple;
+    background:#4F6D7A;
     transition:0.5s;
     text-transform: uppercase;
 }
@@ -69,9 +69,12 @@ aside {
     margin-top: -20%;
     text-align: center;
 }
+h1 {
+    font-family: 'Playfair Display', serif;
+}
 a {
     text-decoration: none;
-    color: black;
+    color:#f2f2f2;
 }
 video {
     /*width: 100%;*/
@@ -86,6 +89,8 @@ footer {
     bottom:0;
     width:100%;
     /*height:60px;    */
-    background:#6cf;
+    background:#56A3A6;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color:#f2f2f2;
 }

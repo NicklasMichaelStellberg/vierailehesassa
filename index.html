@@ -3,40 +3,63 @@
 <head>
     <meta charset="UTF-8">
     <title>Vieraile Hesassa</title>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Playfair+Display&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
-        <div class ="logo">
-            <a href="#"><img src="images/placeholder.png"></a>
+<div class="logo">
+    <a href="#"><img src="images/placeholder.png" alt="logo"> </a>
+</div>
+<nav>
+    <ul>
+        <li><a href="index.html">Etusivu</a></li>
+        <li><a href="nahtavyydet.html">Nähtävyydet</a></li>
+        <li><a href="ruokailu.html">Ruoka</a></li>
+        <li><a href="shoppailu.html">Shoppailu</a></li>
+        <li><a href="kartta.html">Kartta</a></li>
+    </ul>
+</nav>
+<main>
+    <article>
+        <figure>
+            <video width="320" height="300" controls>
+                <source src="video/placeholher.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <!-- <br>
+             <a href="galleria.html"> <img src="images/placeholder.png" alt="Logo" width="33%" height="33%"></a>
+             <a href="ruokailu.html" ><img src="images/placeholder.png" alt="Logo" width="33%" height="33%"></a>
+             <a href="shoppailu.html" ><img src="images/placeholder.png" alt="Logo" width="33%" height="33%"></a> -->
+        </figure>
+    </article>
+</main>
+<aside>
+    <div class="content-wrapper">
+        <a href="galleria.html"><img src="images/placeholder.png" alt="Nähtävyys"></a>
+        <div class="text-wrapper">
+            <h1>Nähtävyydet</h1>
         </div>
-        <nav>
-            <ul>
-                <li><a href="index.html">Etusivu</a></li>
-                <li><a href="nahtavyydet.html">Nähtävyydet</a></li>
-                <li><a href="ruokailu.html">Ruoka</a></li>
-                <li><a href="shoppailu.html">Shoppailu</a></li>
-                <li><a href="kartta.html">Kartta</a></li>
-            </ul>
-        </nav>
-    <main>
-        <article>
-            <figure>
-                <video width="320" height="300" controls>
-                    <source src="video/placeholher.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>
-                <br>
-                <a href="nahtavyydet.html"><img src="images/placeholder.png" alt="Logo" width="33%" height="33%"></a>
-                <a href="ruokailu.html"><img src="images/placeholder.png" alt="Logo" width="33%" height="33%"></a>
-                <a href="shoppailu.html"><img src="images/placeholder.png" alt="Logo" width="33%" height="33%"></a>
-            </figure>
-        </article>
-    </main>
-    <footer>
-        <p><a href="tekijat.html">Tietoa meistä</a><p>
-        <p>&copy; 2020 VieraileHesassa.fi<p>
-    </footer>
-    <script src="js/script.js">
-    </script>
+    </div>
+    <div class="content-wrapper">
+        <a href="ruokailu.html"><img src="images/placeholder.png" alt="Ruoka"></a>
+        <div class="text-wrapper">
+            <h1>Ravintolat</h1>
+        </div>
+    </div>
+    <div class="content-wrapper">
+        <a href="shoppailu.html"><img src="images/placeholder.png" alt="Kauppa"></a>
+        <div class="text-wrapper">
+            <h1>Shoppaile Hesas</h1>
+        </div>
+    </div>
+</aside>
+<footer>
+    <p><a href="tekijat.html">Tietoa meistä</a>
+    <p>
+    <p>&copy; 2020 VieraileHesassa.fi
+    <p>
+</footer>
+<script src="js/script.js">
+</script>
 </body>
 </html>

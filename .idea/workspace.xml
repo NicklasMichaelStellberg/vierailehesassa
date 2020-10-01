@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/kartta.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/kartta.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i5qqGdOnxrerl5Z4KGmsJphNHu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../imageList-master" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="" />
+      <created>1601207991244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601207991244</updated>
+      <workItem from="1601207992347" duration="7461000" />
+      <workItem from="1601277677573" duration="509000" />
+      <workItem from="1601278514027" duration="1206000" />
+      <workItem from="1601360239969" duration="23094000" />
+      <workItem from="1601449251745" duration="19181000" />
+      <workItem from="1601543254080" duration="7780000" />
+    </task>
+    <task id="LOCAL−00001" summary="Initial commit">
+      <created>1601208792655</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1601208792655</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Initial commit">
+      <created>1601208925652</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1601208925652</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Added pages for gallery, map and creators">
+      <created>1601215921327</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1601215921327</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Added lightbox">
+      <created>1601368104609</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1601368104609</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Added pages for food and shopping">
+      <created>1601368580173</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1601368580173</updated>
+    </task>
+    <task id="LOCAL−00006" summary="Added pages for food and shopping">
+      <created>1601369054360</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1601369054360</updated>
+    </task>
+    <task id="LOCAL−00007" summary="Added directory for images and placeholder.png">
+      <created>1601371293801</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1601371293801</updated>
+    </task>
+    <task id="LOCAL−00008" summary="Added navigation, footer and markers for map">
+      <created>1601395339628</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1601395339628</updated>
+    </task>
+    <task id="LOCAL−00009" summary="Added map without current location and text over images">
+      <created>1601475538191</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1601475538191</updated>
+    </task>
+    <task id="LOCAL−00010" summary="Added untracked files to project">
+      <created>1601543756906</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1601543756906</updated>
+    </task>
+    <task id="LOCAL−00011" summary="Updated index.html to current version">
+      <created>1601547595885</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1601547595885</updated>
+    </task>
+    <task id="LOCAL−00012" summary="Fixed link to nähtävyydet">
+      <created>1601547973951</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1601547973951</updated>
+    </task>
+    <task id="LOCAL−00013" summary="Added fonts">
+      <created>1601550970743</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1601550970743</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Added pages for gallery, map and creators" />
+    <MESSAGE value="Added lightbox" />
+    <MESSAGE value="Added pages for food and shopping" />
+    <MESSAGE value="Added directory for images and placeholder.png" />
+    <MESSAGE value="Added navigation, footer and markers for map" />
+    <MESSAGE value="Added map without current location and text over images" />
+    <MESSAGE value="Added untracked files to project" />
+    <MESSAGE value="Updated index.html to current version" />
+    <MESSAGE value="Fixed link to nähtävyydet" />
+    <MESSAGE value="Added fonts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added fonts" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="343" key="#Notifications" timestamp="1601543579132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="343" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1601543579132" />
+    <state x="719" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601368987691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601368987691" />
+    <state x="585" y="97" key="CommitChangelistDialog2" timestamp="1601550969441">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601550969441" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601468118877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601468118877" />
+    <state x="827" y="417" key="Github.ShareDialog" timestamp="1601208412881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="827" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601208412881" />
+    <state x="760" y="224" key="Github.UntrackedFilesDialog" timestamp="1601208506434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="760" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601208506434" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601550974616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601550974616" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601548019710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601548019710" />
+  </component>
+</project>
