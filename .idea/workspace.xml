@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="Nähtävyydet säätö">
+    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/lightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/lightbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/kartta.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/kartta.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +34,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -72,7 +74,8 @@
       <workItem from="1601360239969" duration="23094000" />
       <workItem from="1601449251745" duration="19181000" />
       <workItem from="1601543254080" duration="7780000" />
-      <workItem from="1601617782914" duration="10807000" />
+      <workItem from="1601617782914" duration="8978000" />
+      <workItem from="1601645721449" duration="8275000" />
     </task>
     <task id="LOCAL−00001" summary="Initial commit">
       <created>1601208792655</created>
@@ -180,14 +183,7 @@
       <option name="project" value="LOCAL" />
       <updated>1601623396262</updated>
     </task>
-    <task id="LOCAL-00018" summary="Nähtävyydet säätö">
-      <created>1601627418505</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1601627418505</updated>
-    </task>
-    <option name="localTasksCounter" value="19" />
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,8 +216,7 @@
     <MESSAGE value="Added fonts" />
     <MESSAGE value="Hoverit nähtävyyksissä (kesken)" />
     <MESSAGE value="Nähtävyydet (kesken)" />
-    <MESSAGE value="Nähtävyydet säätö" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nähtävyydet säätö" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nähtävyydet (kesken)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="715" y="343" key="#Notifications" timestamp="1601543579132">
@@ -256,13 +251,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601623541884" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601627425643">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601623561283">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601627425643" />
-    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601619410332">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601623561283" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601645794002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601619410332" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601645794002" />
   </component>
 </project>
