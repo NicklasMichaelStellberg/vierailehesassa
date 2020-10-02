@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/nahtavyydet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/nahtavyydet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nahtavyydet.html" beforeDir="false" afterPath="$PROJECT_DIR$/nahtavyydet.html" afterDir="false" />
-    </list>
+    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="Hoverit nähtävyyksissä (kesken)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +69,7 @@
       <workItem from="1601360239969" duration="23094000" />
       <workItem from="1601449251745" duration="19181000" />
       <workItem from="1601543254080" duration="7780000" />
-      <workItem from="1601617782914" duration="871000" />
+      <workItem from="1601617782914" duration="1179000" />
     </task>
     <task id="LOCAL−00001" summary="Initial commit">
       <created>1601208792655</created>
@@ -153,7 +149,21 @@
       <option name="presentableId" value="LOCAL−00013" />
       <updated>1601550970743</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Hoverit nähtävyyksissä (kesken)">
+      <created>1601619021802</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601619021802</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Hoverit nähtävyyksissä (kesken)">
+      <created>1601619108814</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601619108814</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +194,8 @@
     <MESSAGE value="Updated index.html to current version" />
     <MESSAGE value="Fixed link to nähtävyydet" />
     <MESSAGE value="Added fonts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added fonts" />
+    <MESSAGE value="Hoverit nähtävyyksissä (kesken)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hoverit nähtävyyksissä (kesken)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="715" y="343" key="#Notifications" timestamp="1601543579132">
