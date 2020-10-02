@@ -65,34 +65,27 @@ footer {
 
 .rivi-1 {
     display: inline-block;
-    text-align: center;
     position: relative;
 } /* Eka rivi kuvia. */
 
 .rivi-2 {
     display: inline-block;
-    text-align: center;
     position: relative;
 } /* Toka rivi kuvia. */
 
 .kohteet {
-    display: block;
-    width: 100%;
-    height: auto;
+    width: fit-content;
+    height: fit-content;
 } /* Itse kuvat, ja vain kuvat. */
-
-main {
-    text-align: center;
-} /* Koko sivu poisluettuna navigointipalkki. */
 
 .hoveri {
     position: absolute;
     top: 0;
-    bottom: 0;
+    bottom: 3px;
     left: 0;
     right: 0;
-    height: 100%;
-    width: 100%;
+    height: fit-content;
+    width: fit-content;
     opacity: 0;
     transition: .5s ease;
     background-color: black;
@@ -100,11 +93,11 @@ main {
 
 
 .rivi-1:hover .hoveri {
-    opacity: 1;
+    opacity: 70%;
 } /* Jos tän ottaa pois, ei mitään hoveriefektiä tapahdu. */
 
 .rivi-2:hover .hoveri {
-    opacity: 1;
+    opacity: 70%;
 }
 
 .teksti {

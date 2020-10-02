@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="Hoverit nähtävyyksissä (kesken)" />
+    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="Hoverit nähtävyyksissä (kesken)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/nahtavyydet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/nahtavyydet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nahtavyydet.html" beforeDir="false" afterPath="$PROJECT_DIR$/nahtavyydet.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +73,7 @@
       <workItem from="1601360239969" duration="23094000" />
       <workItem from="1601449251745" duration="19181000" />
       <workItem from="1601543254080" duration="7780000" />
-      <workItem from="1601617782914" duration="1179000" />
+      <workItem from="1601617782914" duration="5222000" />
     </task>
     <task id="LOCAL−00001" summary="Initial commit">
       <created>1601208792655</created>
@@ -163,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601619108814</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Hoverit nähtävyyksissä (kesken)">
+      <created>1601619187900</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1601619187900</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,13 +233,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="760" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601208506434" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601550974616">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601619197949">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601550974616" />
-    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601548019710">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601619197949" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601619410332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601548019710" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601619410332" />
   </component>
 </project>
