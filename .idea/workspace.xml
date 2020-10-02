@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="Hoverit nähtävyyksissä (kesken)">
+    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="Nähtävyydet (kesken)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/nahtavyydet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/nahtavyydet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nahtavyydet.html" beforeDir="false" afterPath="$PROJECT_DIR$/nahtavyydet.html" afterDir="false" />
@@ -73,7 +73,7 @@
       <workItem from="1601360239969" duration="23094000" />
       <workItem from="1601449251745" duration="19181000" />
       <workItem from="1601543254080" duration="7780000" />
-      <workItem from="1601617782914" duration="5222000" />
+      <workItem from="1601617782914" duration="8978000" />
     </task>
     <task id="LOCAL−00001" summary="Initial commit">
       <created>1601208792655</created>
@@ -174,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601619187900</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Nähtävyydet (kesken)">
+      <created>1601623396262</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1601623396262</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +213,8 @@
     <MESSAGE value="Fixed link to nähtävyydet" />
     <MESSAGE value="Added fonts" />
     <MESSAGE value="Hoverit nähtävyyksissä (kesken)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hoverit nähtävyyksissä (kesken)" />
+    <MESSAGE value="Nähtävyydet (kesken)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nähtävyydet (kesken)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="715" y="343" key="#Notifications" timestamp="1601543579132">
@@ -233,10 +241,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="760" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601208506434" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601619197949">
+    <state x="184" y="86" key="MergeDialog" timestamp="1601623541878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601619197949" />
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601623541878" />
+    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1601623541884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601623541884" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601623561283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601623561283" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601619410332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
