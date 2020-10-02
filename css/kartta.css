@@ -30,6 +30,11 @@ ul {
 li {
     float: left;
 }
+/* Aktiivinen linkki */
+.active {
+    background:#4F6D7A;
+    text-transform: uppercase;
+}
 .logo img {
     position: absolute;
     margin-top:15px;
