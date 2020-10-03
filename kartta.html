@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Kartta</title>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Playfair+Display&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Playfair+Display&display=swap"
+          rel="stylesheet">
     <link rel="stylesheet" href="css/kartta.css">
 </head>
 <body>
@@ -26,11 +27,11 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.3/leaflet.js"></script>
 <script>
     // Asetukset paikkatiedon hakua varten (valinnainen)
-   /* const options = {
-        enableHighAccuracy: true,
-        timeout: 5000,
-        maximumAge: 0
-    };*/
+    /* const options = {
+         enableHighAccuracy: true,
+         timeout: 5000,
+         maximumAge: 0
+     };*/
     // Luodaan kartta ja markkerit
     const map = L.map('map').setView([60.170544, 24.952126], 13);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -60,67 +61,68 @@
         .bindPopup('Stockmann')
     L.marker([60.169385, 24.933234]).addTo(map)
         .bindPopup('Kampin Keskus')
-/*
-    // Funktio, joka ajetaan, kun paikkatiedot on haettu
-    function success(pos) {
-        const crd = pos.coords;
+    /*
+        // Funktio, joka ajetaan, kun paikkatiedot on haettu
+        function success(pos) {
+            const crd = pos.coords;
 
-        // Tulostetaan paikkatiedot konsoliin
-        console.log('Your current position is:');
-        console.log(`Latitude : ${crd.latitude}`);
-        console.log(`Longitude: ${crd.longitude}`);
-        console.log(`More or less ${crd.accuracy} meters.`);
+            // Tulostetaan paikkatiedot konsoliin
+            console.log('Your current position is:');
+            console.log(`Latitude : ${crd.latitude}`);
+            console.log(`Longitude: ${crd.longitude}`);
+            console.log(`More or less ${crd.accuracy} meters.`);
 
-        // Käytetään leaflet.js -kirjastoa näyttämään sijainti kartalla (https://leafletjs.com/)
-        let map = L.map('map').setView([crd.latitude, crd.longitude], 13);
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-        }).addTo(map);
+            // Käytetään leaflet.js -kirjastoa näyttämään sijainti kartalla (https://leafletjs.com/)
+            let map = L.map('map').setView([crd.latitude, crd.longitude], 13);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+            }).addTo(map);
 
-        L.marker([crd.latitude, crd.longitude]).addTo(map)
-            .bindPopup('Olen tässä.')
-            .openPopup();
+            L.marker([crd.latitude, crd.longitude]).addTo(map)
+                .bindPopup('Olen tässä.')
+                .openPopup();
 
-        // Lisätään markkereita karttaan
-        L.marker([60.170544, 24.952126]).addTo(map)
-            .bindPopup('Helsingin tuomiokirkko')
-        L.marker([60.167755, 24.953720]).addTo(map)
-            .bindPopup('Kauppatori')
-        L.marker([60.168492, 24.956392]).addTo(map)
-            .bindPopup('Presidentinlinna')
-        L.marker([60.172761, 24.933079]).addTo(map)
-            .bindPopup('Eduskuntatalo')
-        L.marker([60.187976, 24.926732]).addTo(map)
-            .bindPopup('Helsingin Olympiastadion')
-        L.marker([60.168758, 24.940930]).addTo(map)
-            .bindPopup('Kolmen sepän patsas')
-        L.marker([60.1687587, 24.947631]).addTo(map)
-            .bindPopup('Esplanadi')
-        L.marker([60.173923, 24.938108]).addTo(map)
-            .bindPopup('Helsingin keskuskirjasto Oodi')
-        L.marker([60.175109, 24.931650]).addTo(map)
-            .bindPopup('Suomen kansallismuseo')
-        L.marker([60.168626, 24.959982]).addTo(map)
-            .bindPopup('Uspenskin katedraali')
-        L.marker([60.168411, 24.942174]).addTo(map)
-            .bindPopup('Stockmann')
-        L.marker([60.169385, 24.933234]).addTo(map)
-            .bindPopup('Kampin Keskus')
-    }
+            // Lisätään markkereita karttaan
+            L.marker([60.170544, 24.952126]).addTo(map)
+                .bindPopup('Helsingin tuomiokirkko')
+            L.marker([60.167755, 24.953720]).addTo(map)
+                .bindPopup('Kauppatori')
+            L.marker([60.168492, 24.956392]).addTo(map)
+                .bindPopup('Presidentinlinna')
+            L.marker([60.172761, 24.933079]).addTo(map)
+                .bindPopup('Eduskuntatalo')
+            L.marker([60.187976, 24.926732]).addTo(map)
+                .bindPopup('Helsingin Olympiastadion')
+            L.marker([60.168758, 24.940930]).addTo(map)
+                .bindPopup('Kolmen sepän patsas')
+            L.marker([60.1687587, 24.947631]).addTo(map)
+                .bindPopup('Esplanadi')
+            L.marker([60.173923, 24.938108]).addTo(map)
+                .bindPopup('Helsingin keskuskirjasto Oodi')
+            L.marker([60.175109, 24.931650]).addTo(map)
+                .bindPopup('Suomen kansallismuseo')
+            L.marker([60.168626, 24.959982]).addTo(map)
+                .bindPopup('Uspenskin katedraali')
+            L.marker([60.168411, 24.942174]).addTo(map)
+                .bindPopup('Stockmann')
+            L.marker([60.169385, 24.933234]).addTo(map)
+                .bindPopup('Kampin Keskus')
+        }
 
-    // Funktio, joka ajetaan, jos paikkatietojen hakemisessa tapahtuu virhe
-    function error(err) {
-        console.warn(`ERROR(${err.code}): ${err.message}`);
-    }
+        // Funktio, joka ajetaan, jos paikkatietojen hakemisessa tapahtuu virhe
+        function error(err) {
+            console.warn(`ERROR(${err.code}): ${err.message}`);
+        }
 
-    // Käynnistetään paikkatietojen haku
-    //navigator.geolocation.getCurrentPosition(success, error, options);*/
+        // Käynnistetään paikkatietojen haku
+        //navigator.geolocation.getCurrentPosition(success, error, options);*/
 </script>
+
 <footer>
     <p><a href="tekijat.html">Tietoa meistä</a>
-    <p>
+    </p>
     <p>&copy; 2020 VieraileHesassa.fi
-    <p>
+    </p>
 </footer>
 </body>
 </html>
