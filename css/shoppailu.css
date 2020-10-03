@@ -1,9 +1,10 @@
-/* Älä lisää mitään tänne alkuun! Allaoleva CSS on navigointipalkin, joka toistuu joka ikisellä sivulla. Scrollaa alaspäin. */
+/* Älä lisää mitään tähän alle! Allaoleva CSS on navigointipalkin, joka toistuu joka ikisellä sivulla. Scrollaa alaspäin. */
 
 nav {
     width: 100%;
-    background: black;
+    background: #084C61;
     overflow: auto;
+    margin-bottom: 10px;
 }
 
 nav a {
@@ -11,7 +12,7 @@ nav a {
     display:block;
     padding: 20px 15px;
     text-decoration: none;
-    font-family: Arial;
+    font-family: 'Open Sans', sans-serif;
     color:#f2f2f2;
     text-align: center;
 }
@@ -43,43 +44,55 @@ li {
 /* Kaikki ylläoleva on joka sivulla toistuvan navigointipalkin CSS. */
 /* Tästä eteenpäin saa kirjotella vapaasti. */
 
-article {
-    text-align: center;
+* {
+    padding:0;
+    margin:0;
 }
 
-.rivi-1 {
-    display: inline-block;
+html {
+    overflow-y: scroll;
 }
-
-.rivi-2 {
-    display: inline-block;
-}
-
-.kohteet {
-    height: 250px;
-} /* Thumbnailit. */
-
-.otsikko {
-    border: 1px solid blue;
-    text-align: center;
+body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background-color: #E3B505;
 }
 
 a {
     text-decoration: none;
-    color: black;
+    color:#f2f2f2;
 }
 
-body {
-    margin: 0;
-    padding: 0;
-} /* Ilman tätä navigointipalkin ympärillä on pieni tyhjä tila. */
-
 footer {
+    height: 45px;
+    bottom: 0;
+    position: relative;
+    width: 100%;
     border: black solid 1px;
-    position:absolute;
-    bottom:0;
-    width:100%;
-    /*height:60px;   /* Height of the footer */
-    background:#6cf;
+    background:#56A3A6;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color:#f2f2f2;
+} /* Alapalkki. */
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.kuvaJaOtsikko {
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
+
+main img {
+    width: 80%;
+}
+
+.kuvaJaOtsikko p {
+    margin-top: 10px;
 }
