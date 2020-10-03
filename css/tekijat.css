@@ -1,0 +1,172 @@
+
+* {
+    padding:0;
+    margin:0;
+}
+
+html {
+  overflow-y: scroll;
+  }
+body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #E3B505;
+    position: absolute;
+}
+
+/* Navigaatio */
+nav {
+    width: 100%;
+    background: #084C61;
+    overflow: auto;
+}
+nav a {
+    width: 110px;
+    display:block;
+    padding: 20px 15px;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    color:#f2f2f2;
+    text-align: center;
+}
+nav a:hover  {
+    background:#4F6D7A;
+    transition:0.5s;
+    text-transform: uppercase;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 0 150px;
+}
+li {
+    float: left;
+}
+/* Aktiivinen linkki */
+.active {
+    background:#4F6D7A;
+    text-transform: uppercase;
+}
+.logo img {
+    position: absolute;
+    margin-top:15px;
+    margin-left: 10px;
+    width: 125px;
+    height: 27px;
+    padding: 0;
+}
+main {
+    padding-top: 2%;
+
+}
+aside {
+    text-align: center;
+}
+.content-wrapper {
+    width:30%;
+    margin: 2% 1% 5% 1%;
+    display: inline-block;
+}
+.content-wrapper img {
+    width:100%;
+}
+.content-wrapper img:hover {
+    background-color:#000;
+    opacity:0.5;
+}
+.text-wrapper {
+    width: 100%;
+    position: relative;
+    margin-top: -20%;
+    text-align: center;
+}
+h1 {
+    font-family: 'Playfair Display', serif;
+}
+a {
+    text-decoration: none;
+    color:#f2f2f2;
+}
+
+
+footer {
+    border: black solid 1px;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    /*height:60px;    */
+    background:#56A3A6;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color:#f2f2f2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.column-layout img {
+  width: 360px;
+  height: 220px;
+  padding: 50px;
+  border-radius: 50%;
+}
+
+
+.column-layout {
+
+  max-width: 100%;
+  display: flex;
+  margin: 20px auto 0 auto;
+  line-height: 2;
+  padding: 0;
+
+
+}
+
+
+.timo{
+  padding: 50px;
+  flex: 1;
+  text-align: left;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nicklas{
+  padding: 50px;
+  flex: 1;
+  text-align: left;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+
+}
+
+.leevi {
+  padding: 50px;
+  flex: 1;
+  text-align: left;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

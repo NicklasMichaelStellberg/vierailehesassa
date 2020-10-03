@@ -1,0 +1,163 @@
+* {
+    padding:0;
+    margin:0;
+}
+
+html {
+  overflow-y: scroll;
+  }
+body {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-color: white;
+    position: absolute;
+}
+
+/* Navigaatio */
+nav {
+    width: 100%;
+    background: #084C61;
+    overflow: auto;
+}
+nav a {
+    width: 110px;
+    display:block;
+    padding: 20px 15px;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    color:#f2f2f2;
+    text-align: center;
+}
+nav a:hover  {
+    background:#4F6D7A;
+    transition:0.5s;
+    text-transform: uppercase;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 0 150px;
+}
+li {
+    float: left;
+}
+/* Aktiivinen linkki */
+.active {
+    background:#4F6D7A;
+    text-transform: uppercase;
+}
+.logo img {
+    position: absolute;
+    margin-top:15px;
+    margin-left: 10px;
+    width: 125px;
+    height: 27px;
+}
+
+aside {
+    text-align: center;
+}
+
+
+h1 {
+    font-family: 'Playfair Display', serif;
+}
+
+h3 {
+  font-family: 'Playfair Display', serif;
+}
+a {
+    text-decoration: none;
+    color:#f2f2f2;
+}
+
+
+footer {
+    border: black solid 1px;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    /*height:60px;    */
+    background:#56A3A6;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color:#f2f2f2;
+}
+
+
+
+
+
+
+
+
+
+
+/*sivun css*/
+.column-layout {
+
+  max-width: 100%;
+  display: flex;
+  margin: 5px auto 0 auto;
+  line-height: 2;
+  padding: 0;
+
+
+}
+
+
+.ravintolat{
+
+  padding: 50px;
+  background-color: #084C61;
+  flex: 1;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.kahvilat{
+  padding: 50px;
+  background-color: #E3B505;
+  flex: 1;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: black;
+
+
+}
+
+.leipomot {
+  padding: 50px;
+  background-color: #084C61;
+  flex: 1;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.ravintolat img, .kahvilat img, .leipomot img{
+  padding: 0 50px 50px;
+  width: 300px;
+  height: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  opacity: 1;
+}
+
+.ravintolat img:hover, .kahvilat img:hover, .leipomot img:hover{
+  opacity: .7;
+}
