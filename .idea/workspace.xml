@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="Nähtävyydet säätö">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/lightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/lightbox.css" afterDir="false" />
+    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="nahtavyydet.html footerin kanssa problem">
+      <change beforePath="$PROJECT_DIR$/images/kimi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kuumotus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mureketta.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
