@@ -55,10 +55,8 @@ a {
 }
 footer {
     border: black solid 1px;
-    position:absolute;
-    bottom:0;
     width:100%;
-    /*height:60px; */
+    height: 107px;
     background:#56A3A6;
     text-align: center;
     font-family: 'Open Sans', sans-serif;

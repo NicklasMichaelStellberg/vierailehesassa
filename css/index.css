@@ -53,60 +53,45 @@ li {
     width: 125px;
     height: 27px;
 }
-article {
-    width: 100%;
-}
-img.news-image {
-    background: #dadada;
-    height: 50%;
-    width: 50%;
-}
-.news-item:nth-child(even) img.news-image {
-    float:right;
-}
-p.news-info {
-    margin-top: 0;
-}
-.news-item {
-    clear: both;
-    border-top: 1px solid #dadada;
-    height:20%;
-}
-.news-item:nth-child(odd) div.news-info {
-    float: right;
+figure{
+    height:214px;
+    width:100%;
+    border: 1px black solid;
+    background-color: #44aaee;
     display: inline-block;
-    vertical-align: middle;
 }
-.news-item:nth-child(odd) div.news-image {
-    float: left;
-}
-.news-item:nth-child(even) div.news-info {
-    float: left;
-}
-.news-item:nth-child(even) div.news-image {
-    float: right;
-}
-/*aside {
+p{
     text-align: center;
 }
-.content-wrapper {
-    width:30%;
-    margin: 2% 1% 5% 1%;
-    display: inline-block;
+.kuva {
+    height:100%;
+    float:left;
+    margin-left:149px;
 }
-.content-wrapper img {
-    width:100%;
+figure:nth-child(even) .kuva {
+    float:right;
+    margin-right:149px;
 }
-.content-wrapper img:hover {
+.eka {
+    background-color: #DB504A;
+    color: #f2f2f2;
+}
+.toka {
+    background-color: #E3B505;
+    color: black;
+}
+.kolmas {
+    background-color: #4F6D7A;
+    color: #f2f2f2;
+}
+.neljas {
+    background-color: #084C61;
+    color: #f2f2f2;
+}
+figure img:hover {
     background-color:#000;
     opacity:0.5;
 }
-.text-wrapper {
-    width: 100%;
-    position: relative;
-    margin-top: -20%;
-    text-align: center;
-}*/
 h1 {
     font-family: 'Playfair Display', serif;
 }
@@ -114,19 +99,10 @@ a {
     text-decoration: none;
     color:#f2f2f2;
 }
-video {
-    /*width: 100%;*/
-    display: block;
-    width: auto;
-    margin: 0 auto;
-}
-
 footer {
     border: black solid 1px;
-    position:absolute;
-    bottom:0;
     width:100%;
-    /*height:60px;*/
+    height: 107px;
     background:#56A3A6;
     text-align: center;
     font-family: 'Open Sans', sans-serif;

@@ -1,0 +1,138 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Vieraile Hesassa</title>\r\n    <link href=\"https://fonts.googleapis.com/css2?family=Open+Sans&family=Playfair+Display&display=swap\" rel=\"stylesheet\">\r\n    <link rel=\"stylesheet\" href=\"css/index.css\">\r\n</head>\r\n<body>\r\n<div class=\"logo\">\r\n    <a href=\"index.html\"><img src=\"images/placeholder.png\" alt=\"logo\"> </a>\r\n</div>\r\n<nav>\r\n    <ul>\r\n        <li class=\"active\"><a href=\"index.html\">Etusivu</a></li>\r\n        <li><a href=\"nahtavyydet.html\">Nähtävyydet</a></li>\r\n        <li><a href=\"ruokailu.html\">Ruoka</a></li>\r\n        <li><a href=\"shoppailu.html\">Shoppailu</a></li>\r\n        <li><a href=\"kartta.html\">Kartta</a></li>\r\n    </ul>\r\n</nav>\r\n<main>\r\n    <article>\r\n        <figure>\r\n            <video width=\"320\" height=\"300\" controls>\r\n                <source src=\"video/placeholher.mp4\" type=\"video/mp4\">\r\n                Your browser does not support the video tag.\r\n            </video>\r\n            <!-- <br>\r\n             <a href=\"galleria.html\"> <img src=\"images/placeholder.png\" alt=\"Logo\" width=\"33%\" height=\"33%\"></a>\r\n             <a href=\"ruokailu.html\" ><img src=\"images/placeholder.png\" alt=\"Logo\" width=\"33%\" height=\"33%\"></a>\r\n             <a href=\"shoppailu.html\" ><img src=\"images/placeholder.png\" alt=\"Logo\" width=\"33%\" height=\"33%\"></a> -->\r\n        </figure>\r\n    </article>\r\n</main>\r\n<aside>\r\n    <div class=\"content-wrapper\">\r\n        <a href=\"galleria.html\"><img src=\"images/placeholder.png\" alt=\"Nähtävyys\"></a>\r\n        <div class=\"text-wrapper\">\r\n            <h1>Nähtävyydet</h1>\r\n        </div>\r\n    </div>\r\n    <div class=\"content-wrapper\">\r\n        <a href=\"ruokailu.html\"><img src=\"images/placeholder.png\" alt=\"Ruoka\"></a>\r\n        <div class=\"text-wrapper\">\r\n            <h1>Ravintolat</h1>\r\n        </div>\r\n    </div>\r\n    <div class=\"content-wrapper\">\r\n        <a href=\"shoppailu.html\"><img src=\"images/placeholder.png\" alt=\"Kauppa\"></a>\r\n        <div class=\"text-wrapper\">\r\n            <h1>Shoppaile Hesas</h1>\r\n        </div>\r\n    </div>\r\n</aside>\r\n<footer>\r\n    <p><a href=\"tekijat.html\">Tietoa meistä</a>\r\n    <p>\r\n    <p>&copy; 2020 VieraileHesassa.fi\r\n    <p>\r\n</footer>\r\n<script src=\"js/script.js\">\r\n</script>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.html	(revision 4ea321863c438b881b91358a3bc6716add11beec)
++++ index.html	(date 1601627927382)
+@@ -21,16 +21,17 @@
+ </nav>
+ <main>
+     <article>
+-        <figure>
++        <!--<figure>
+             <video width="320" height="300" controls>
+                 <source src="video/placeholher.mp4" type="video/mp4">
+                 Your browser does not support the video tag.
+             </video>
+-            <!-- <br>
++            <br>
+              <a href="galleria.html"> <img src="images/placeholder.png" alt="Logo" width="33%" height="33%"></a>
+              <a href="ruokailu.html" ><img src="images/placeholder.png" alt="Logo" width="33%" height="33%"></a>
+-             <a href="shoppailu.html" ><img src="images/placeholder.png" alt="Logo" width="33%" height="33%"></a> -->
+-        </figure>
++             <a href="shoppailu.html" ><img src="images/placeholder.png" alt="Logo" width="33%" height="33%"></a>
++        </figure> -->
++
+     </article>
+ </main>
+ <aside>
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"0250490f-1787-485f-bb6f-6674dc35feb2\" name=\"Default Changelist\" comment=\"Nähtävyydet (kesken)\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/css/nahtavyydet.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/css/nahtavyydet.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/nahtavyydet.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/nahtavyydet.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"JavaScript File\" />\r\n        <option value=\"HTML File\" />\r\n        <option value=\"CSS File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1i5qqGdOnxrerl5Z4KGmsJphNHu\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../imageList-master\" />\r\n    <property name=\"list.type.of.created.stylesheet\" value=\"CSS\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"0250490f-1787-485f-bb6f-6674dc35feb2\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1601207991244</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1601207991244</updated>\r\n      <workItem from=\"1601207992347\" duration=\"7461000\" />\r\n      <workItem from=\"1601277677573\" duration=\"509000\" />\r\n      <workItem from=\"1601278514027\" duration=\"1206000\" />\r\n      <workItem from=\"1601360239969\" duration=\"23094000\" />\r\n      <workItem from=\"1601449251745\" duration=\"19181000\" />\r\n      <workItem from=\"1601543254080\" duration=\"7780000\" />\r\n      <workItem from=\"1601617782914\" duration=\"8978000\" />\r\n    </task>\r\n    <task id=\"LOCAL−00001\" summary=\"Initial commit\">\r\n      <created>1601208792655</created>\r\n      <option name=\"number\" value=\"LOCAL−00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00001\" />\r\n      <updated>1601208792655</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00002\" summary=\"Initial commit\">\r\n      <created>1601208925652</created>\r\n      <option name=\"number\" value=\"LOCAL−00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00002\" />\r\n      <updated>1601208925652</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00003\" summary=\"Added pages for gallery, map and creators\">\r\n      <created>1601215921327</created>\r\n      <option name=\"number\" value=\"LOCAL−00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00003\" />\r\n      <updated>1601215921327</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00004\" summary=\"Added lightbox\">\r\n      <created>1601368104609</created>\r\n      <option name=\"number\" value=\"LOCAL−00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00004\" />\r\n      <updated>1601368104609</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00005\" summary=\"Added pages for food and shopping\">\r\n      <created>1601368580173</created>\r\n      <option name=\"number\" value=\"LOCAL−00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00005\" />\r\n      <updated>1601368580173</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00006\" summary=\"Added pages for food and shopping\">\r\n      <created>1601369054360</created>\r\n      <option name=\"number\" value=\"LOCAL−00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00006\" />\r\n      <updated>1601369054360</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00007\" summary=\"Added directory for images and placeholder.png\">\r\n      <created>1601371293801</created>\r\n      <option name=\"number\" value=\"LOCAL−00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00007\" />\r\n      <updated>1601371293801</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00008\" summary=\"Added navigation, footer and markers for map\">\r\n      <created>1601395339628</created>\r\n      <option name=\"number\" value=\"LOCAL−00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00008\" />\r\n      <updated>1601395339628</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00009\" summary=\"Added map without current location and text over images\">\r\n      <created>1601475538191</created>\r\n      <option name=\"number\" value=\"LOCAL−00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00009\" />\r\n      <updated>1601475538191</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00010\" summary=\"Added untracked files to project\">\r\n      <created>1601543756906</created>\r\n      <option name=\"number\" value=\"LOCAL−00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00010\" />\r\n      <updated>1601543756906</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00011\" summary=\"Updated index.html to current version\">\r\n      <created>1601547595885</created>\r\n      <option name=\"number\" value=\"LOCAL−00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00011\" />\r\n      <updated>1601547595885</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00012\" summary=\"Fixed link to nähtävyydet\">\r\n      <created>1601547973951</created>\r\n      <option name=\"number\" value=\"LOCAL−00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00012\" />\r\n      <updated>1601547973951</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00013\" summary=\"Added fonts\">\r\n      <created>1601550970743</created>\r\n      <option name=\"number\" value=\"LOCAL−00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00013\" />\r\n      <updated>1601550970743</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"Hoverit nähtävyyksissä (kesken)\">\r\n      <created>1601619021802</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601619021802</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"Hoverit nähtävyyksissä (kesken)\">\r\n      <created>1601619108814</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601619108814</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"Hoverit nähtävyyksissä (kesken)\">\r\n      <created>1601619187900</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601619187900</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"Nähtävyydet (kesken)\">\r\n      <created>1601623396262</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601623396262</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"18\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"Initial commit\" />\r\n    <MESSAGE value=\"Added pages for gallery, map and creators\" />\r\n    <MESSAGE value=\"Added lightbox\" />\r\n    <MESSAGE value=\"Added pages for food and shopping\" />\r\n    <MESSAGE value=\"Added directory for images and placeholder.png\" />\r\n    <MESSAGE value=\"Added navigation, footer and markers for map\" />\r\n    <MESSAGE value=\"Added map without current location and text over images\" />\r\n    <MESSAGE value=\"Added untracked files to project\" />\r\n    <MESSAGE value=\"Updated index.html to current version\" />\r\n    <MESSAGE value=\"Fixed link to nähtävyydet\" />\r\n    <MESSAGE value=\"Added fonts\" />\r\n    <MESSAGE value=\"Hoverit nähtävyyksissä (kesken)\" />\r\n    <MESSAGE value=\"Nähtävyydet (kesken)\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Nähtävyydet (kesken)\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"715\" y=\"343\" key=\"#Notifications\" timestamp=\"1601543579132\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"715\" y=\"343\" key=\"#Notifications/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601543579132\" />\r\n    <state x=\"719\" y=\"321\" key=\"#com.intellij.fileTypes.FileTypeChooser\" timestamp=\"1601368987691\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"719\" y=\"321\" key=\"#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601368987691\" />\r\n    <state x=\"585\" y=\"97\" key=\"CommitChangelistDialog2\" timestamp=\"1601550969441\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"585\" y=\"97\" key=\"CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601550969441\" />\r\n    <state x=\"740\" y=\"274\" key=\"FileChooserDialogImpl\" timestamp=\"1601468118877\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"740\" y=\"274\" key=\"FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601468118877\" />\r\n    <state x=\"827\" y=\"417\" key=\"Github.ShareDialog\" timestamp=\"1601208412881\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"827\" y=\"417\" key=\"Github.ShareDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601208412881\" />\r\n    <state x=\"760\" y=\"224\" key=\"Github.UntrackedFilesDialog\" timestamp=\"1601208506434\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"760\" y=\"224\" key=\"Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601208506434\" />\r\n    <state x=\"184\" y=\"86\" key=\"MergeDialog\" timestamp=\"1601623541878\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"184\" y=\"86\" key=\"MergeDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601623541878\" />\r\n    <state x=\"598\" y=\"281\" key=\"MultipleFileMergeDialog\" timestamp=\"1601623541884\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"598\" y=\"281\" key=\"MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601623541884\" />\r\n    <state x=\"552\" y=\"252\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1601623561283\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"552\" y=\"252\" key=\"Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601623561283\" />\r\n    <state x=\"777\" y=\"433\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1601619410332\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"777\" y=\"433\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601619410332\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 4ea321863c438b881b91358a3bc6716add11beec)
++++ .idea/workspace.xml	(date 1601627848972)
+@@ -19,10 +19,10 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="Nähtävyydet (kesken)">
++    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/css/nahtavyydet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/nahtavyydet.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/nahtavyydet.html" beforeDir="false" afterPath="$PROJECT_DIR$/nahtavyydet.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -73,7 +73,7 @@
+       <workItem from="1601360239969" duration="23094000" />
+       <workItem from="1601449251745" duration="19181000" />
+       <workItem from="1601543254080" duration="7780000" />
+-      <workItem from="1601617782914" duration="8978000" />
++      <workItem from="1601617782914" duration="5222000" />
+     </task>
+     <task id="LOCAL−00001" summary="Initial commit">
+       <created>1601208792655</created>
+@@ -174,14 +174,7 @@
+       <option name="project" value="LOCAL" />
+       <updated>1601619187900</updated>
+     </task>
+-    <task id="LOCAL-00017" summary="Nähtävyydet (kesken)">
+-      <created>1601623396262</created>
+-      <option name="number" value="00017" />
+-      <option name="presentableId" value="LOCAL-00017" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1601623396262</updated>
+-    </task>
+-    <option name="localTasksCounter" value="18" />
++    <option name="localTasksCounter" value="17" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -213,8 +206,7 @@
+     <MESSAGE value="Fixed link to nähtävyydet" />
+     <MESSAGE value="Added fonts" />
+     <MESSAGE value="Hoverit nähtävyyksissä (kesken)" />
+-    <MESSAGE value="Nähtävyydet (kesken)" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Nähtävyydet (kesken)" />
++    <option name="LAST_COMMIT_MESSAGE" value="Hoverit nähtävyyksissä (kesken)" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="715" y="343" key="#Notifications" timestamp="1601543579132">
+@@ -241,18 +233,10 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="760" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601208506434" />
+-    <state x="184" y="86" key="MergeDialog" timestamp="1601623541878">
+-      <screen x="0" y="0" width="1920" height="1040" />
+-    </state>
+-    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601623541878" />
+-    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1601623541884">
++    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601619197949">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601623541884" />
+-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601623561283">
+-      <screen x="0" y="0" width="1920" height="1040" />
+-    </state>
+-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601623561283" />
++    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601619197949" />
+     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601619410332">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+Index: css/index.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>/* Muotoilujen nollaaminen */\r\n* {\r\n    padding:0;\r\n    margin:0;\r\n}\r\nbody {\r\n    width: 100%;\r\n    height: auto;\r\n    overflow: hidden;\r\n    background-color: #E3B505;\r\n}\r\n\r\n/* Navigaatio */\r\nnav {\r\n    width: 100%;\r\n    background: #084C61;\r\n    overflow: auto;\r\n}\r\nnav a {\r\n    width: 110px;\r\n    display:block;\r\n    padding: 20px 15px;\r\n    text-decoration: none;\r\n    font-family: 'Open Sans', sans-serif;\r\n    color:#f2f2f2;\r\n    text-align: center;\r\n}\r\nnav a:hover  {\r\n    background:#4F6D7A;\r\n    transition:0.5s;\r\n    text-transform: uppercase;\r\n}\r\nul {\r\n    list-style: none;\r\n    padding: 0;\r\n    margin: 0 0 0 150px;\r\n}\r\nli {\r\n    float: left;\r\n}\r\n/* Aktiivinen linkki */\r\n.active {\r\n    background:#4F6D7A;\r\n    text-transform: uppercase;\r\n}\r\n.logo img {\r\n    position: absolute;\r\n    margin-top:15px;\r\n    margin-left: 10px;\r\n    width: 125px;\r\n    height: 27px;\r\n}\r\nmain {\r\n    padding-top: 2%;\r\n}\r\naside {\r\n    text-align: center;\r\n}\r\n.content-wrapper {\r\n    width:30%;\r\n    margin: 2% 1% 5% 1%;\r\n    display: inline-block;\r\n}\r\n.content-wrapper img {\r\n    width:100%;\r\n}\r\n.content-wrapper img:hover {\r\n    background-color:#000;\r\n    opacity:0.5;\r\n}\r\n.text-wrapper {\r\n    width: 100%;\r\n    position: relative;\r\n    margin-top: -20%;\r\n    text-align: center;\r\n}\r\nh1 {\r\n    font-family: 'Playfair Display', serif;\r\n}\r\na {\r\n    text-decoration: none;\r\n    color:#f2f2f2;\r\n}\r\nvideo {\r\n    /*width: 100%;*/\r\n    display: block;\r\n    width: auto;\r\n    margin: 0 auto;\r\n}\r\n\r\nfooter {\r\n    border: black solid 1px;\r\n    position:absolute;\r\n    bottom:0;\r\n    width:100%;\r\n    /*height:60px;    */\r\n    background:#56A3A6;\r\n    text-align: center;\r\n    font-family: 'Open Sans', sans-serif;\r\n    color:#f2f2f2;\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- css/index.css	(revision 4ea321863c438b881b91358a3bc6716add11beec)
++++ css/index.css	(date 1601627927256)
+@@ -3,6 +3,9 @@
+     padding:0;
+     margin:0;
+ }
++html {
++    overflow-y: scroll;
++}
+ body {
+     width: 100%;
+     height: auto;
+@@ -93,7 +96,7 @@
+     position:absolute;
+     bottom:0;
+     width:100%;
+-    /*height:60px;    */
++    /*height:60px;*/
+     background:#56A3A6;
+     text-align: center;
+     font-family: 'Open Sans', sans-serif;
