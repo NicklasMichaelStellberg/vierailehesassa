@@ -3,9 +3,12 @@
     padding:0;
     margin:0;
 }
+html {
+    overflow-y: scroll;
+}
 body {
     width: 100%;
-    height: auto;
+    height: 100%;
     overflow: hidden;
     background-color: #E3B505;
 }
@@ -50,29 +53,48 @@ li {
     width: 125px;
     height: 27px;
 }
-main {
-    padding-top: 2%;
-}
-aside {
-    text-align: center;
-}
-.content-wrapper {
-    width:30%;
-    margin: 2% 1% 5% 1%;
+figure{
+    height:214px;
+    width:100%;
+    border: 1px black solid;
+    background-color: #44aaee;
     display: inline-block;
 }
-.content-wrapper img {
-    width:100%;
+p{
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    font-family: 'Open Sans', sans-serif;
 }
-.content-wrapper img:hover {
+.kuva {
+    height:100%;
+    float:left;
+    margin-left:149px;
+}
+figure:nth-child(even) .kuva {
+    float:right;
+    margin-right:149px;
+}
+.eka {
+    background-color: #DB504A;
+    color: #f2f2f2;
+}
+.toka {
+    background-color: #E3B505;
+    color: black;
+}
+.kolmas {
+    background-color: #4F6D7A;
+    color: #f2f2f2;
+}
+.neljas {
+    background-color: #084C61;
+    color: #f2f2f2;
+}
+figure img:hover {
     background-color:#000;
     opacity:0.5;
-}
-.text-wrapper {
-    width: 100%;
-    position: relative;
-    margin-top: -20%;
-    text-align: center;
 }
 h1 {
     font-family: 'Playfair Display', serif;
@@ -81,21 +103,20 @@ a {
     text-decoration: none;
     color:#f2f2f2;
 }
-video {
-    /*width: 100%;*/
-    display: block;
-    width: auto;
-    margin: 0 auto;
-}
-
 footer {
     border: black solid 1px;
-    position:absolute;
-    bottom:0;
     width:100%;
-    /*height:60px;    */
+    height: 107px;
     background:#56A3A6;
     text-align: center;
     font-family: 'Open Sans', sans-serif;
     color:#f2f2f2;
+}
+@media only screen and (max-width: 600px) {
+    .kuva {
+        margin-left:0;
+    }
+    figure:nth-child(even) .kuva {
+        margin-right:0;
+    }
 }
