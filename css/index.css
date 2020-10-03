@@ -62,6 +62,9 @@ figure{
 }
 p{
     text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 .kuva {
     height:100%;
