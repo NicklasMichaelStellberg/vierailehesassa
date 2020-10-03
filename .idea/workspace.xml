@@ -19,9 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="Nähtävyydet säätö">
+    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="Lightbox taustan tummuus">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/lightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/lightbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/nahtavyydet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/nahtavyydet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kimi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kuumotus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mureketta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nahtavyydet.html" beforeDir="false" afterPath="$PROJECT_DIR$/nahtavyydet.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +76,8 @@
       <workItem from="1601360239969" duration="23094000" />
       <workItem from="1601449251745" duration="19181000" />
       <workItem from="1601543254080" duration="7780000" />
-      <workItem from="1601617782914" duration="10807000" />
+      <workItem from="1601617782914" duration="12773000" />
+      <workItem from="1601731909637" duration="11927000" />
     </task>
     <task id="LOCAL−00001" summary="Initial commit">
       <created>1601208792655</created>
@@ -187,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601627418505</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Lightbox taustan tummuus">
+      <created>1601629286842</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1601629286842</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,7 +233,8 @@
     <MESSAGE value="Hoverit nähtävyyksissä (kesken)" />
     <MESSAGE value="Nähtävyydet (kesken)" />
     <MESSAGE value="Nähtävyydet säätö" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nähtävyydet säätö" />
+    <MESSAGE value="Lightbox taustan tummuus" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lightbox taustan tummuus" />
   </component>
   <component name="WindowStateProjectService">
     <state x="715" y="343" key="#Notifications" timestamp="1601543579132">
@@ -256,10 +269,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601623541884" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601627425643">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601629292926">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601627425643" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601629292926" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601619410332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
