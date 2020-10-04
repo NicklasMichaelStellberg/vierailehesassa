@@ -49,32 +49,22 @@ li {
     margin:0;
 }
 
-html {
-    overflow-y: scroll;
-}
-body {
-    height: 100%;
-    width: 100%;
-    overflow: hidden;
-    background-color: #E3B505;
-}
-
 a {
     text-decoration: none;
     color:#f2f2f2;
 }
 
-footer {
-    height: 45px;
-    bottom: 0;
+html {
+    overflow-y: scroll;
+}
+body {
     position: relative;
+    min-height: 100vh;
+    height: 100%;
     width: 100%;
-    border: black solid 1px;
-    background:#56A3A6;
-    text-align: center;
-    font-family: 'Open Sans', sans-serif;
-    color:#f2f2f2;
-} /* Alapalkki. */
+    overflow: hidden;
+    background-color: #E3B505;
+}
 
 main {
     display: flex;
@@ -84,15 +74,62 @@ main {
 
 .kuvaJaOtsikko {
     text-align: center;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 30px;
+    position: relative;
 }
 
 main img {
     width: 80%;
+    height: auto;
 }
 
 .kuvaJaOtsikko p {
-    margin-top: 10px;
+    margin: 10px;
+    font-family: 'Open Sans', sans-serif;
 }
+
+.hoveri {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 10%;
+    right: 0;
+    height: 88%;
+    width: 80%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: black;
+} /* Halutun alueen muuttaminen tietyksi väriksi kun hiiri viedään päälle. */
+
+.kuvaJaOtsikko:hover .hoveri {
+    opacity: 90%;
+} /* Miten läpinäkyvä hoveri on. */
+
+.teksti {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+} /* Teksti hoverialueen sisällä. */
+
+.tyhja {
+    clear: both;
+    height: 55px;
+} /* Alapalkin yllä oleva tyhjä, näkymätön tila. */
+/* Tämä estää ettei sivun alimpana oleva materiaali piiloudu osittain footerin taakse. */
+
+footer {
+    height: 45px;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    border: black solid 1px;
+    background:#56A3A6;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color:#f2f2f2;
+} /* Alapalkki. */
