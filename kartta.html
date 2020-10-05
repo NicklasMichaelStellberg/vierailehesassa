@@ -33,7 +33,7 @@
          maximumAge: 0
      };*/
     // Luodaan kartta ja markkerit
-    const map = L.map('map').setView([60.170544, 24.952126], 13);
+    const map = L.map('map').setView([60.170544, 24.952126], 15);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     }).addTo(map);
@@ -61,6 +61,14 @@
         .bindPopup('Stockmann')
     L.marker([60.169385, 24.933234]).addTo(map)
         .bindPopup('Kampin Keskus')
+    L.marker([60.169090, 24.949379]).addTo(map)
+        .bindPopup('Aleksanterinkatu')
+    L.marker([60.168809, 24.945464]).addTo(map)
+        .bindPopup('Amarillo')
+    L.marker([60.170186, 24.942497]).addTo(map)
+        .bindPopup('Kauppakeskus Citycenter')
+    L.marker([60.168748, 24.937743]).addTo(map)
+        .bindPopup('Forum')
     /*
         // Funktio, joka ajetaan, kun paikkatiedot on haettu
         function success(pos) {
