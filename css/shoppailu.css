@@ -128,14 +128,25 @@ main img {
 } /* Alapalkin yllä oleva tyhjä, näkymätön tila. */
   /* Tämä estää ettei sivun alimpana oleva materiaali piiloudu osittain footerin taakse. */
 
-footer {
-    height: 45px;
-    bottom: 0;
-    position: absolute;
-    width: 100%;
-    border: black solid 1px;
-    background:#56A3A6;
-    text-align: center;
-    font-family: 'Open Sans', sans-serif;
-    color:#f2f2f2;
-} /* Alapalkki. */
+  /* Footteri */
+    footer {
+        border: black solid 1px;
+        width:100%;
+        height: 107px;
+        background:#56A3A6;
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
+        color:#f2f2f2;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+  }
+
+
+  footer a:hover  {
+      background:#4F6D7A;
+      transition:0.5s;
+  }

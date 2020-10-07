@@ -72,6 +72,8 @@ a {
     color:#f2f2f2;
 }
 
+
+/* Footteri */
   footer {
       border: black solid 1px;
       width:100%;
@@ -84,13 +86,15 @@ a {
       display: flex;
       justify-content: center;
       align-items: center;
-      direction: column;
+      flex-direction: column;
 
 }
 
 
-
-
+footer a:hover  {
+    background:#4F6D7A;
+    transition:0.5s;
+}
 
 
 

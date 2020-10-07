@@ -9,7 +9,7 @@ html {
   }
 body {
     width: 100%;
-    height: 100%;
+    height: auto;
     overflow: hidden;
     background-color: #E3B505;
     position: absolute;
@@ -90,17 +90,29 @@ a {
 }
 
 
-footer {
-    border: black solid 1px;
-    position:absolute;
-    bottom:0;
-    width:100%;
-    /*height:60px;    */
-    background:#56A3A6;
-    text-align: center;
-    font-family: 'Open Sans', sans-serif;
-    color:#f2f2f2;
+/* Footteri */
+  footer {
+      border: black solid 1px;
+      width:100%;
+      height: 107px;
+      background:#56A3A6;
+      text-align: center;
+      font-family: 'Open Sans', sans-serif;
+      color:#f2f2f2;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+
 }
+
+
+footer a:hover  {
+    background:#4F6D7A;
+    transition:0.5s;
+}
+
 
 
 
