@@ -72,17 +72,20 @@ a {
     color:#f2f2f2;
 }
 
+  footer {
+      border: black solid 1px;
+      width:100%;
+      height: 107px;
+      background:#56A3A6;
+      text-align: center;
+      font-family: 'Open Sans', sans-serif;
+      color:#f2f2f2;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      direction: column;
 
-footer {
-    border: black solid 1px;
-    position:absolute;
-    bottom:0;
-    width:100%;
-    /*height:60px;    */
-    background:#56A3A6;
-    text-align: center;
-    font-family: 'Open Sans', sans-serif;
-    color:#f2f2f2;
 }
 
 
@@ -99,6 +102,7 @@ footer {
 
   max-width: 100%;
   display: flex;
+  flex-wrap: wrap;
   margin: 5px auto 0 auto;
   line-height: 2;
   padding: 0;
@@ -136,7 +140,7 @@ footer {
 
 }
 
-.leipomot {
+.pubit{
   padding: 50px;
   background-color: #084C61;
   flex: 1;
@@ -149,7 +153,7 @@ footer {
   color: white;
 }
 
-.ravintolat img, .kahvilat img, .leipomot img{
+.ravintolat img, .kahvilat img, .pubit img{
   padding: 0 50px 50px;
   width: 300px;
   height: 200px;
@@ -158,6 +162,6 @@ footer {
   opacity: 1;
 }
 
-.ravintolat img:hover, .kahvilat img:hover, .leipomot img:hover{
+.ravintolat img:hover, .kahvilat img:hover, .pubit img:hover{
   opacity: .7;
 }
