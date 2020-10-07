@@ -22,7 +22,14 @@
 </nav>
 <!-- haetaan käyttäjän paikkatiedot ja näytetään ne OpenStreetMapin ja Leaflet.js:n avulla -->
 <div id="map"></div>
-
+<figure>
+    <img src="images/kartta/marker-icon-blue.png">
+    <p>Nähtävyydet</p>
+    <img src="images/kartta/marker-icon-gold.png">
+    <p>Kaupat</p>
+    <img src="images/kartta/marker-icon-red.png">
+    <p>Ruokapaikat</p>
+</figure>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.3/leaflet.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.3/leaflet.js"></script>
 <script>
@@ -32,8 +39,25 @@
          timeout: 5000,
          maximumAge: 0
      };*/
-    // Luodaan kartta ja markkerit
+    // Luodaan kartta
     const map = L.map('map').setView([60.170544, 24.952126], 15);
+    // Lisätään värit
+    var blueIcon = new L.Icon({
+        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png',
+        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+    });
+    var goldIcon = new L.Icon({
+        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-gold.png',
+        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+    });
     var greenIcon = new L.Icon({
         iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
         shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
@@ -50,6 +74,7 @@
         popupAnchor: [1, -34],
         shadowSize: [41, 41]
     });
+
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     }).addTo(map);
@@ -73,17 +98,17 @@
         .bindPopup('Suomen kansallismuseo')
     L.marker([60.168626, 24.959982]).addTo(map)
         .bindPopup('Uspenskin katedraali')
-    L.marker([60.168411, 24.942174]).addTo(map)
+    L.marker([60.168411, 24.942174],{icon: goldIcon}).addTo(map)
         .bindPopup('Stockmann')
-    L.marker([60.169385, 24.933234]).addTo(map)
+    L.marker([60.169385, 24.933234],{icon: goldIcon}).addTo(map)
         .bindPopup('Kampin Keskus')
     L.marker([60.169090, 24.949379]).addTo(map)
         .bindPopup('Aleksanterinkatu')
-    L.marker([60.168809, 24.945464]).addTo(map)
+    L.marker([60.168809, 24.945464],{icon: redIcon}).addTo(map)
         .bindPopup('Amarillo')
-    L.marker([60.170186, 24.942497]).addTo(map)
+    L.marker([60.170186, 24.942497],{icon: goldIcon}).addTo(map)
         .bindPopup('Kauppakeskus Citycenter')
-    L.marker([60.168748, 24.937743]).addTo(map)
+    L.marker([60.168748, 24.937743],{icon: goldIcon}).addTo(map)
         .bindPopup('Forum')
     L.marker([60.172115, 24.936669]).addTo(map)
         .bindPopup('Kiasma')
@@ -95,51 +120,51 @@
         .bindPopup('Helsingin päärautatieasema')
     L.marker([60.169651, 24.930681]).addTo(map)
         .bindPopup('Tennispalatsi')
-    L.marker([60.168222, 24.951764]).addTo(map)
+    L.marker([60.168222, 24.951764],{icon: redIcon}).addTo(map)
         .bindPopup('Bryggeri')
-    L.marker([60.172349, 24.937356]).addTo(map)
+    L.marker([60.172349, 24.937356],{icon: redIcon}).addTo(map)
         .bindPopup('Elmo Sport Bistro')
-    L.marker([60.169421, 24.933279]).addTo(map)
+    L.marker([60.169421, 24.933279],{icon: redIcon}).addTo(map)
         .bindPopup('Fafa’s')
-    L.marker([60.167486, 24.950319]).addTo(map)
+    L.marker([60.167486, 24.950319],{icon: redIcon}).addTo(map)
         .bindPopup('Kappeli Restaurant')
-    L.marker([60.168198, 24.954901]).addTo(map)
+    L.marker([60.168198, 24.954901],{icon: redIcon}).addTo(map)
         .bindPopup('Olo Restaurant')
-    L.marker([60.169018, 24.952765]).addTo(map)
+    L.marker([60.169018, 24.952765],{icon: redIcon}).addTo(map)
         .bindPopup('Restaurant Savotta')
-    L.marker([60.168531, 24.937617]).addTo(map)
+    L.marker([60.168531, 24.937617],{icon: redIcon}).addTo(map)
         .bindPopup('Suburritos Fresh Mexican Kitchen')
-    L.marker([60.169979, 24.941897]).addTo(map)
+    L.marker([60.169979, 24.941897],{icon: redIcon}).addTo(map)
         .bindPopup('Fazer Cafe')
-    L.marker([60.168192, 24.946563]).addTo(map)
+    L.marker([60.168192, 24.946563],{icon: redIcon}).addTo(map)
         .bindPopup('Ciao!Caffe')
-    L.marker([60.168071, 24.945382]).addTo(map)
+    L.marker([60.168071, 24.945382],{icon: redIcon}).addTo(map)
         .bindPopup('Gateau')
-    L.marker([60.170557, 24.943451]).addTo(map)
+    L.marker([60.170557, 24.943451],{icon: redIcon}).addTo(map)
         .bindPopup('La Torrefazione')
-    L.marker([60.169168, 24.947702]).addTo(map)
+    L.marker([60.169168, 24.947702],{icon: redIcon}).addTo(map)
         .bindPopup('Paulig Kulma')
-    L.marker([60.169507, 24.958934]).addTo(map)
+    L.marker([60.169507, 24.958934],{icon: redIcon}).addTo(map)
         .bindPopup('Relandersgrund Cafe')
-    L.marker([60.168734, 24.950408]).addTo(map)
+    L.marker([60.168734, 24.950408],{icon: redIcon}).addTo(map)
         .bindPopup('Robert’s Coffee')
-    L.marker([60.169832, 24.943541]).addTo(map)
+    L.marker([60.169832, 24.943541],{icon: redIcon}).addTo(map)
         .bindPopup('Starbucks Coffee')
-    L.marker([60.168276, 24.938533]).addTo(map)
+    L.marker([60.168276, 24.938533],{icon: redIcon}).addTo(map)
         .bindPopup('Irishpub')
-    L.marker([60.170059, 24.933054]).addTo(map)
+    L.marker([60.170059, 24.933054],{icon: redIcon}).addTo(map)
         .bindPopup('Aussiebar')
-    L.marker([60.169981, 24.935713]).addTo(map)
+    L.marker([60.169981, 24.935713],{icon: redIcon}).addTo(map)
         .bindPopup('Henry’s Pub')
-    L.marker([60.168883, 24.959184]).addTo(map)
+    L.marker([60.168883, 24.959184],{icon: redIcon}).addTo(map)
         .bindPopup('Holiday Bar')
-    L.marker([60.167942, 24.937396]).addTo(map)
+    L.marker([60.167942, 24.937396],{icon: redIcon}).addTo(map)
         .bindPopup('Pub Peräkammari')
-    L.marker([60.168257, 24.946347]).addTo(map)
+    L.marker([60.168257, 24.946347],{icon: goldIcon}).addTo(map)
         .bindPopup('Kamp Galleria Shopping Centre')
-    L.marker([60.166514, 24.952767]).addTo(map)
+    L.marker([60.166514, 24.952767],{icon: goldIcon}).addTo(map)
         .bindPopup('Vanha Kauppahalli')
-    L.marker([60.169500, 24.947959]).addTo(map)
+    L.marker([60.169500, 24.947959],{icon: goldIcon}).addTo(map)
         .bindPopup('Kauppakeskus Kluuvi')
     L.marker([60.167995, 24.939169],{icon: redIcon}).addTo(map)
         .bindPopup('U.Kaleva Baari')

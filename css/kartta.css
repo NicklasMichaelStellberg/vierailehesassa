@@ -53,6 +53,17 @@ a {
     height:750px;
     text-align: center;
 }
+figure {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+figure p {
+    padding: 0 10px;
+}
+figure img {
+    padding: 0 10px;
+}
 /* Footteri */
   footer {
       border: black solid 1px;
@@ -62,7 +73,6 @@ a {
       text-align: center;
       font-family: 'Open Sans', sans-serif;
       color:#f2f2f2;
-      text-align: center;
       display: flex;
       justify-content: center;
       align-items: center;
