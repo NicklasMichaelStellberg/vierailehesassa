@@ -57,6 +57,7 @@ figure {
     display: flex;
     align-items: center;
     text-align: center;
+    padding-left: 50px;
 }
 figure p {
     padding: 0 10px;
@@ -84,4 +85,9 @@ figure img {
 footer a:hover  {
     background:#4F6D7A;
     transition:0.5s;
+}
+@media only screen and (max-width: 600px) {
+    figure {
+        padding: 0;
+    }
 }
