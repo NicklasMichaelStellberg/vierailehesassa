@@ -552,3 +552,9 @@
 
   return new Lightbox();
 }));
+
+lightbox.option({
+  'resizeDuration': 200,
+  'wrapAround': true,
+  'showImageNumberLabel': false,
+}) /* Lightbox custom asetukset. */
