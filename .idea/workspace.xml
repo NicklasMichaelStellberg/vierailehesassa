@@ -19,127 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="Nähtävyydet ja Shoppailu hiomista">
-      <change afterPath="$PROJECT_DIR$/images/nahtavyydet/big/eduskuntatalo2-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nahtavyydet/big/eduskuntatalo3-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nahtavyydet/big/kauppatori1-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nahtavyydet/big/kauppatori3-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nahtavyydet/big/kauppatori5-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nahtavyydet/big/linna1-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nahtavyydet/big/linna2-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nahtavyydet/big/oodi-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nahtavyydet/big/rautatientori1-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nahtavyydet/big/rautatientori2-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nahtavyydet/big/rautatientori4-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nahtavyydet/big/rautatientori5-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nahtavyydet/big/tuomiokirkko1-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nahtavyydet/big/tuomiokirkko2-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/citycenter2-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/citycenter3-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/citycenter4-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/citycenter5-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/forum1-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/forum2-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/forum3-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/forum4-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/kamppi3-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/kamppi4-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/kamppi5-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/kamppi6-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/kauppahalli1-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/kauppahalli2-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/kauppahalli3-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/kluuvi1-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/kluuvi2-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/kluuvi3-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/stockmann1-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/stockmann2-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/big/stockmann3-900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/thumb/citycenter3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/shoppailu/thumb/kauppahalli2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/nahtavyydet.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_2020_10_27_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_2020_10_27__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_2020_11_32_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_2020_11_32__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_2020_12_02_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_2020_12_02__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_2020_9_14_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_2020_9_14__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/nahtavyydet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/nahtavyydet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/shoppailu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/shoppailu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_20201005_125422.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/aleksanterinkatu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/amarillo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/citycenter1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/citycenter2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/citycenter3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/eduskuntatalo1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/eduskuntatalo2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/nahtavyydet/thumb/eduskuntatalo2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/eduskuntatalo3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/espa1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/espa2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fazer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/forum1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/forum2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/forum3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/shoppailu/thumb/forum3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/forum4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ilmasto1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ilmasto2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ilmasto3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/irishpub.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kamp1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kamp2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kamppi1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kamppi2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kamppi3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kamppi4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/shoppailu/thumb/kamppi4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kamppi5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kamppi6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kartta.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kauppahalli1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kauppahalli2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kauppahalli3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kauppatori1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/nahtavyydet/thumb/kauppatori1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kauppatori2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kauppatori3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kauppatori4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kauppatori5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kauppatori6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kiasma.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kluuvi1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/shoppailu/thumb/kluuvi1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kluuvi2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kluuvi3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/linna1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/nahtavyydet/thumb/linna1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/linna2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/makasiini.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/museo1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/museo2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/olo1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/olo2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/oodi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/nahtavyydet/thumb/oodi.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/perakammari1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/perakammari2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/perakammari3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pyora1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pyora2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/rautatientori1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/rautatientori2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/rautatientori3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/rautatientori4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/rautatientori5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/nahtavyydet/thumb/rautatientori5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ruoka.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/stockmann1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/shoppailu/thumb/stockmann1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/stockmann2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/stockmann3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/suburritos.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tennispalatsi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tuomiokirkko1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tuomiokirkko2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/nahtavyydet/thumb/tuomiokirkko2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/uspenskin1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/uspenskin2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/uspenskin3.jpg" beforeDir="false" />
+    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="Kuvien lisäys">
       <change beforePath="$PROJECT_DIR$/nahtavyydet.html" beforeDir="false" afterPath="$PROJECT_DIR$/nahtavyydet.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shoppailu.html" beforeDir="false" afterPath="$PROJECT_DIR$/shoppailu.html" afterDir="false" />
     </list>
@@ -363,7 +243,14 @@
       <option name="presentableId" value="LOCAL−00027" />
       <updated>1601915965767</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Kuvien lisäys">
+      <created>1602066187157</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1602066187157</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,7 +291,8 @@
     <MESSAGE value="Added images" />
     <MESSAGE value="Added images for index" />
     <MESSAGE value="Changed img links to figure links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed img links to figure links" />
+    <MESSAGE value="Kuvien lisäys" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kuvien lisäys" />
   </component>
   <component name="WindowStateProjectService">
     <state x="715" y="343" key="#Notifications" timestamp="1601543579132">
@@ -439,10 +327,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601623541884" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601915969888">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602066195718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601915969888" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602066195718" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601915937819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
