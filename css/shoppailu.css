@@ -77,6 +77,11 @@ main {
     flex-wrap: wrap;
 }
 
+h3 {
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 10px;
+}
+
 .kuvaJaOtsikko {
     text-align: center;
     position: relative;
@@ -85,20 +90,16 @@ main {
 main img {
     width: 80%;
     height: auto;
-}
-
-.kuvaJaOtsikko p {
-    margin: 10px;
-    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 30px;
 }
 
 .hoveri {
     position: absolute;
-    top: 0;
+    top: 9.5%;
     bottom: 0;
     left: 10%;
     right: 0;
-    height: 87%;
+    height: 81.5%;
     width: 80%;
     opacity: 0;
     transition: .5s ease;
