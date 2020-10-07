@@ -93,7 +93,7 @@ main img {
     bottom: 0;
     left: 10%;
     right: 0;
-    height: 88%;
+    height: 87%;
     width: 80%;
     opacity: 0;
     transition: .5s ease;
@@ -120,7 +120,7 @@ main img {
     clear: both;
     height: 55px;
 } /* Alapalkin yllä oleva tyhjä, näkymätön tila. */
-/* Tämä estää ettei sivun alimpana oleva materiaali piiloudu osittain footerin taakse. */
+  /* Tämä estää ettei sivun alimpana oleva materiaali piiloudu osittain footerin taakse. */
 
 footer {
     height: 45px;
