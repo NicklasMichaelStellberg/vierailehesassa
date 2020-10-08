@@ -1,0 +1,268 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"0250490f-1787-485f-bb6f-6674dc35feb2\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"JavaScript File\" />\r\n        <option value=\"HTML File\" />\r\n        <option value=\"CSS File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1i5qqGdOnxrerl5Z4KGmsJphNHu\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../imageList-master\" />\r\n    <property name=\"list.type.of.created.stylesheet\" value=\"CSS\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"0250490f-1787-485f-bb6f-6674dc35feb2\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1601207991244</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1601207991244</updated>\r\n      <workItem from=\"1601207992347\" duration=\"7461000\" />\r\n      <workItem from=\"1601277677573\" duration=\"509000\" />\r\n      <workItem from=\"1601278514027\" duration=\"1206000\" />\r\n      <workItem from=\"1601360239969\" duration=\"23094000\" />\r\n      <workItem from=\"1601449251745\" duration=\"19181000\" />\r\n      <workItem from=\"1601543254080\" duration=\"7780000\" />\r\n      <workItem from=\"1601617782914\" duration=\"8978000\" />\r\n      <workItem from=\"1601645721449\" duration=\"8478000\" />\r\n      <workItem from=\"1601716209946\" duration=\"15388000\" />\r\n      <workItem from=\"1601908062635\" duration=\"6385000\" />\r\n      <workItem from=\"1601968190469\" duration=\"2446000\" />\r\n      <workItem from=\"1601974135146\" duration=\"735000\" />\r\n      <workItem from=\"1601994736429\" duration=\"56000\" />\r\n      <workItem from=\"1601994908051\" duration=\"2779000\" />\r\n      <workItem from=\"1602000277845\" duration=\"892000\" />\r\n      <workItem from=\"1602050146748\" duration=\"3115000\" />\r\n    </task>\r\n    <task id=\"LOCAL−00001\" summary=\"Initial commit\">\r\n      <created>1601208792655</created>\r\n      <option name=\"number\" value=\"LOCAL−00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00001\" />\r\n      <updated>1601208792655</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00002\" summary=\"Initial commit\">\r\n      <created>1601208925652</created>\r\n      <option name=\"number\" value=\"LOCAL−00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00002\" />\r\n      <updated>1601208925652</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00003\" summary=\"Added pages for gallery, map and creators\">\r\n      <created>1601215921327</created>\r\n      <option name=\"number\" value=\"LOCAL−00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00003\" />\r\n      <updated>1601215921327</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00004\" summary=\"Added lightbox\">\r\n      <created>1601368104609</created>\r\n      <option name=\"number\" value=\"LOCAL−00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00004\" />\r\n      <updated>1601368104609</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00005\" summary=\"Added pages for food and shopping\">\r\n      <created>1601368580173</created>\r\n      <option name=\"number\" value=\"LOCAL−00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00005\" />\r\n      <updated>1601368580173</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00006\" summary=\"Added pages for food and shopping\">\r\n      <created>1601369054360</created>\r\n      <option name=\"number\" value=\"LOCAL−00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00006\" />\r\n      <updated>1601369054360</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00007\" summary=\"Added directory for images and placeholder.png\">\r\n      <created>1601371293801</created>\r\n      <option name=\"number\" value=\"LOCAL−00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00007\" />\r\n      <updated>1601371293801</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00008\" summary=\"Added navigation, footer and markers for map\">\r\n      <created>1601395339628</created>\r\n      <option name=\"number\" value=\"LOCAL−00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00008\" />\r\n      <updated>1601395339628</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00009\" summary=\"Added map without current location and text over images\">\r\n      <created>1601475538191</created>\r\n      <option name=\"number\" value=\"LOCAL−00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00009\" />\r\n      <updated>1601475538191</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00010\" summary=\"Added untracked files to project\">\r\n      <created>1601543756906</created>\r\n      <option name=\"number\" value=\"LOCAL−00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00010\" />\r\n      <updated>1601543756906</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00011\" summary=\"Updated index.html to current version\">\r\n      <created>1601547595885</created>\r\n      <option name=\"number\" value=\"LOCAL−00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00011\" />\r\n      <updated>1601547595885</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00012\" summary=\"Fixed link to nähtävyydet\">\r\n      <created>1601547973951</created>\r\n      <option name=\"number\" value=\"LOCAL−00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00012\" />\r\n      <updated>1601547973951</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00013\" summary=\"Added fonts\">\r\n      <created>1601550970743</created>\r\n      <option name=\"number\" value=\"LOCAL−00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00013\" />\r\n      <updated>1601550970743</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"Hoverit nähtävyyksissä (kesken)\">\r\n      <created>1601619021802</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601619021802</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"Hoverit nähtävyyksissä (kesken)\">\r\n      <created>1601619108814</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601619108814</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"Hoverit nähtävyyksissä (kesken)\">\r\n      <created>1601619187900</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601619187900</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"Nähtävyydet (kesken)\">\r\n      <created>1601623396262</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1601623396262</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00018\" summary=\"Index toinen layout\">\r\n      <created>1601654888414</created>\r\n      <option name=\"number\" value=\"LOCAL−00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00018\" />\r\n      <updated>1601654888414</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00019\" summary=\"Index toinen layout\">\r\n      <created>1601728564109</created>\r\n      <option name=\"number\" value=\"LOCAL−00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00019\" />\r\n      <updated>1601728564109</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00020\" summary=\"Index tekstit keskitetty\">\r\n      <created>1601729442093</created>\r\n      <option name=\"number\" value=\"LOCAL−00020\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00020\" />\r\n      <updated>1601729442093</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00021\" summary=\"Added Media Queries for index\">\r\n      <created>1601732702035</created>\r\n      <option name=\"number\" value=\"LOCAL−00021\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00021\" />\r\n      <updated>1601732702035</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00022\" summary=\"Added kartta.jpg\">\r\n      <created>1601800870305</created>\r\n      <option name=\"number\" value=\"LOCAL−00022\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00022\" />\r\n      <updated>1601800870305</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00023\" summary=\"Added ruoka.jpg\">\r\n      <created>1601908190984</created>\r\n      <option name=\"number\" value=\"LOCAL−00023\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00023\" />\r\n      <updated>1601908190984</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00024\" summary=\"Added images\">\r\n      <created>1601911901699</created>\r\n      <option name=\"number\" value=\"LOCAL−00024\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00024\" />\r\n      <updated>1601911901699</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00025\" summary=\"Added images for index\">\r\n      <created>1601914295691</created>\r\n      <option name=\"number\" value=\"LOCAL−00025\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00025\" />\r\n      <updated>1601914295691</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00026\" summary=\"Changed img links to figure links\">\r\n      <created>1601915401356</created>\r\n      <option name=\"number\" value=\"LOCAL−00026\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00026\" />\r\n      <updated>1601915401356</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00027\" summary=\"Changed img links to figure links\">\r\n      <created>1601915965767</created>\r\n      <option name=\"number\" value=\"LOCAL−00027\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00027\" />\r\n      <updated>1601915965767</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00028\" summary=\"Added some markers for map\">\r\n      <created>1601917541813</created>\r\n      <option name=\"number\" value=\"LOCAL−00028\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00028\" />\r\n      <updated>1601917541813</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00029\" summary=\"Added images\">\r\n      <created>1601969228955</created>\r\n      <option name=\"number\" value=\"LOCAL−00029\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00029\" />\r\n      <updated>1601969228955</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00030\" summary=\"Added 900px images taken by Leevi\">\r\n      <created>1601997099970</created>\r\n      <option name=\"number\" value=\"LOCAL−00030\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00030\" />\r\n      <updated>1601997099970</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00031\" summary=\"Added 900px width images\">\r\n      <created>1601998054020</created>\r\n      <option name=\"number\" value=\"LOCAL−00031\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00031\" />\r\n      <updated>1601998054020</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00032\" summary=\"Added directories for food and shop\">\r\n      <created>1602000729837</created>\r\n      <option name=\"number\" value=\"LOCAL−00032\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00032\" />\r\n      <updated>1602000729837</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"33\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"Initial commit\" />\r\n    <MESSAGE value=\"Added pages for gallery, map and creators\" />\r\n    <MESSAGE value=\"Added lightbox\" />\r\n    <MESSAGE value=\"Added pages for food and shopping\" />\r\n    <MESSAGE value=\"Added directory for images and placeholder.png\" />\r\n    <MESSAGE value=\"Added navigation, footer and markers for map\" />\r\n    <MESSAGE value=\"Added map without current location and text over images\" />\r\n    <MESSAGE value=\"Added untracked files to project\" />\r\n    <MESSAGE value=\"Updated index.html to current version\" />\r\n    <MESSAGE value=\"Fixed link to nähtävyydet\" />\r\n    <MESSAGE value=\"Added fonts\" />\r\n    <MESSAGE value=\"Hoverit nähtävyyksissä (kesken)\" />\r\n    <MESSAGE value=\"Nähtävyydet (kesken)\" />\r\n    <MESSAGE value=\"Index toinen layout\" />\r\n    <MESSAGE value=\"Index tekstit keskitetty\" />\r\n    <MESSAGE value=\"Added Media Queries for index\" />\r\n    <MESSAGE value=\"Added kartta.jpg\" />\r\n    <MESSAGE value=\"Added ruoka.jpg\" />\r\n    <MESSAGE value=\"Added images for index\" />\r\n    <MESSAGE value=\"Changed img links to figure links\" />\r\n    <MESSAGE value=\"Added some markers for map\" />\r\n    <MESSAGE value=\"Added images\" />\r\n    <MESSAGE value=\"Added 900px images taken by Leevi\" />\r\n    <MESSAGE value=\"Added 900px width images\" />\r\n    <MESSAGE value=\"Added directories for food and shop\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Added directories for food and shop\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"715\" y=\"343\" key=\"#Notifications\" timestamp=\"1601543579132\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"715\" y=\"343\" key=\"#Notifications/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601543579132\" />\r\n    <state x=\"719\" y=\"321\" key=\"#com.intellij.fileTypes.FileTypeChooser\" timestamp=\"1601368987691\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"719\" y=\"321\" key=\"#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601368987691\" />\r\n    <state x=\"585\" y=\"97\" key=\"CommitChangelistDialog2\" timestamp=\"1602000728571\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"585\" y=\"97\" key=\"CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1602000728571\" />\r\n    <state x=\"740\" y=\"274\" key=\"FileChooserDialogImpl\" timestamp=\"1601468118877\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"740\" y=\"274\" key=\"FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601468118877\" />\r\n    <state x=\"827\" y=\"417\" key=\"Github.ShareDialog\" timestamp=\"1601208412881\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"827\" y=\"417\" key=\"Github.ShareDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601208412881\" />\r\n    <state x=\"760\" y=\"224\" key=\"Github.UntrackedFilesDialog\" timestamp=\"1601208506434\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"760\" y=\"224\" key=\"Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601208506434\" />\r\n    <state x=\"184\" y=\"86\" key=\"MergeDialog\" timestamp=\"1601623541878\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"184\" y=\"86\" key=\"MergeDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601623541878\" />\r\n    <state x=\"598\" y=\"281\" key=\"MultipleFileMergeDialog\" timestamp=\"1601623541884\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"598\" y=\"281\" key=\"MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1601623541884\" />\r\n    <state x=\"552\" y=\"252\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1602000733894\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"552\" y=\"252\" key=\"Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1602000733894\" />\r\n    <state x=\"777\" y=\"433\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1602076080740\">\r\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"777\" y=\"433\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1602076080740\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 1977771380ee3f5eb5de689e3001ddeccdeb51c7)
++++ .idea/workspace.xml	(date 1602079030495)
+@@ -20,7 +20,12 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="">
++      <change afterPath="$PROJECT_DIR$/images/kartta/marker-icon-blue.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/images/kartta/marker-icon-gold.png" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/images/kartta/marker-icon-red.png" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/css/kartta.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/kartta.css" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/kartta.html" beforeDir="false" afterPath="$PROJECT_DIR$/kartta.html" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -278,7 +283,13 @@
+       <option name="presentableId" value="LOCAL−00032" />
+       <updated>1602000729837</updated>
+     </task>
+-    <option name="localTasksCounter" value="33" />
++    <task id="LOCAL−00033" summary="Added nicklas.jpg">
++      <created>1602076143500</created>
++      <option name="number" value="LOCAL−00033" />
++      <option name="presentableId" value="LOCAL−00033" />
++      <updated>1602076143500</updated>
++    </task>
++    <option name="localTasksCounter" value="34" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -298,7 +309,6 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+-    <MESSAGE value="Initial commit" />
+     <MESSAGE value="Added pages for gallery, map and creators" />
+     <MESSAGE value="Added lightbox" />
+     <MESSAGE value="Added pages for food and shopping" />
+@@ -323,7 +333,8 @@
+     <MESSAGE value="Added 900px images taken by Leevi" />
+     <MESSAGE value="Added 900px width images" />
+     <MESSAGE value="Added directories for food and shop" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Added directories for food and shop" />
++    <MESSAGE value="Added nicklas.jpg" />
++    <option name="LAST_COMMIT_MESSAGE" value="Added nicklas.jpg" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="715" y="343" key="#Notifications" timestamp="1601543579132">
+@@ -334,10 +345,10 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="719" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601368987691" />
+-    <state x="585" y="97" key="CommitChangelistDialog2" timestamp="1602000728571">
++    <state x="585" y="97" key="CommitChangelistDialog2" timestamp="1602076141509">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602000728571" />
++    <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602076141509" />
+     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601468118877">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+@@ -358,10 +369,10 @@
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+     <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601623541884" />
+-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602000733894">
++    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602076146807">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602000733894" />
++    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602076146807" />
+     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602076080740">
+       <screen x="0" y="0" width="1920" height="1040" />
+     </state>
+Index: kartta.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Kartta</title>\r\n    <link href=\"https://fonts.googleapis.com/css2?family=Open+Sans&family=Playfair+Display&display=swap\"\r\n          rel=\"stylesheet\">\r\n    <link rel=\"stylesheet\" href=\"css/kartta.css\">\r\n</head>\r\n<body>\r\n<div class=\"logo\">\r\n    <a href=\"index.html\"><img src=\"images/logo.png\" alt=\"logo\"> </a>\r\n</div>\r\n<nav>\r\n    <ul>\r\n        <li><a href=\"index.html\">Etusivu</a></li>\r\n        <li><a href=\"nahtavyydet.html\">Nähtävyydet</a></li>\r\n        <li><a href=\"ruokailu.html\">Ruoka</a></li>\r\n        <li><a href=\"shoppailu.html\">Shoppailu</a></li>\r\n        <li class=\"active\"><a href=\"kartta.html\">Kartta</a></li>\r\n    </ul>\r\n</nav>\r\n<!-- haetaan käyttäjän paikkatiedot ja näytetään ne OpenStreetMapin ja Leaflet.js:n avulla -->\r\n<div id=\"map\"></div>\r\n\r\n<link href=\"https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.3/leaflet.css\" rel=\"stylesheet\">\r\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.3/leaflet.js\"></script>\r\n<script>\r\n    // Asetukset paikkatiedon hakua varten (valinnainen)\r\n    /* const options = {\r\n         enableHighAccuracy: true,\r\n         timeout: 5000,\r\n         maximumAge: 0\r\n     };*/\r\n    // Luodaan kartta ja markkerit\r\n    const map = L.map('map').setView([60.170544, 24.952126], 15);\r\n    var greenIcon = new L.Icon({\r\n        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',\r\n        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',\r\n        iconSize: [25, 41],\r\n        iconAnchor: [12, 41],\r\n        popupAnchor: [1, -34],\r\n        shadowSize: [41, 41]\r\n    });\r\n    var redIcon = new L.Icon({\r\n        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',\r\n        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',\r\n        iconSize: [25, 41],\r\n        iconAnchor: [12, 41],\r\n        popupAnchor: [1, -34],\r\n        shadowSize: [41, 41]\r\n    });\r\n    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {\r\n        attribution: '&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors',\r\n    }).addTo(map);\r\n    L.marker([60.170544, 24.952126]).addTo(map)\r\n        .bindPopup('Helsingin tuomiokirkko')\r\n    L.marker([60.167755, 24.953720]).addTo(map)\r\n        .bindPopup('Kauppatori')\r\n    L.marker([60.168492, 24.956392]).addTo(map)\r\n        .bindPopup('Presidentinlinna')\r\n    L.marker([60.172761, 24.933079]).addTo(map)\r\n        .bindPopup('Eduskuntatalo')\r\n    L.marker([60.187976, 24.926732]).addTo(map)\r\n        .bindPopup('Helsingin Olympiastadion')\r\n    L.marker([60.168758, 24.940930]).addTo(map)\r\n        .bindPopup('Kolmen sepän patsas')\r\n    L.marker([60.1687587, 24.947631]).addTo(map)\r\n        .bindPopup('Esplanadi')\r\n    L.marker([60.173923, 24.938108]).addTo(map)\r\n        .bindPopup('Helsingin keskuskirjasto Oodi')\r\n    L.marker([60.175109, 24.931650]).addTo(map)\r\n        .bindPopup('Suomen kansallismuseo')\r\n    L.marker([60.168626, 24.959982]).addTo(map)\r\n        .bindPopup('Uspenskin katedraali')\r\n    L.marker([60.168411, 24.942174]).addTo(map)\r\n        .bindPopup('Stockmann')\r\n    L.marker([60.169385, 24.933234]).addTo(map)\r\n        .bindPopup('Kampin Keskus')\r\n    L.marker([60.169090, 24.949379]).addTo(map)\r\n        .bindPopup('Aleksanterinkatu')\r\n    L.marker([60.168809, 24.945464]).addTo(map)\r\n        .bindPopup('Amarillo')\r\n    L.marker([60.170186, 24.942497]).addTo(map)\r\n        .bindPopup('Kauppakeskus Citycenter')\r\n    L.marker([60.168748, 24.937743]).addTo(map)\r\n        .bindPopup('Forum')\r\n    L.marker([60.172115, 24.936669]).addTo(map)\r\n        .bindPopup('Kiasma')\r\n    L.marker([60.171541, 24.931325]).addTo(map)\r\n        .bindPopup('Luonnontieteellinen museo')\r\n    L.marker([60.166888, 24.959462]).addTo(map)\r\n        .bindPopup('SkyWheel Helsinki')\r\n    L.marker([60.171992, 24.941461]).addTo(map)\r\n        .bindPopup('Helsingin päärautatieasema')\r\n    L.marker([60.169651, 24.930681]).addTo(map)\r\n        .bindPopup('Tennispalatsi')\r\n    L.marker([60.168222, 24.951764]).addTo(map)\r\n        .bindPopup('Bryggeri')\r\n    L.marker([60.172349, 24.937356]).addTo(map)\r\n        .bindPopup('Elmo Sport Bistro')\r\n    L.marker([60.169421, 24.933279]).addTo(map)\r\n        .bindPopup('Fafa’s')\r\n    L.marker([60.167486, 24.950319]).addTo(map)\r\n        .bindPopup('Kappeli Restaurant')\r\n    L.marker([60.168198, 24.954901]).addTo(map)\r\n        .bindPopup('Olo Restaurant')\r\n    L.marker([60.169018, 24.952765]).addTo(map)\r\n        .bindPopup('Restaurant Savotta')\r\n    L.marker([60.168531, 24.937617]).addTo(map)\r\n        .bindPopup('Suburritos Fresh Mexican Kitchen')\r\n    L.marker([60.169979, 24.941897]).addTo(map)\r\n        .bindPopup('Fazer Cafe')\r\n    L.marker([60.168192, 24.946563]).addTo(map)\r\n        .bindPopup('Ciao!Caffe')\r\n    L.marker([60.168071, 24.945382]).addTo(map)\r\n        .bindPopup('Gateau')\r\n    L.marker([60.170557, 24.943451]).addTo(map)\r\n        .bindPopup('La Torrefazione')\r\n    L.marker([60.169168, 24.947702]).addTo(map)\r\n        .bindPopup('Paulig Kulma')\r\n    L.marker([60.169507, 24.958934]).addTo(map)\r\n        .bindPopup('Relandersgrund Cafe')\r\n    L.marker([60.168734, 24.950408]).addTo(map)\r\n        .bindPopup('Robert’s Coffee')\r\n    L.marker([60.169832, 24.943541]).addTo(map)\r\n        .bindPopup('Starbucks Coffee')\r\n    L.marker([60.168276, 24.938533]).addTo(map)\r\n        .bindPopup('Irishpub')\r\n    L.marker([60.170059, 24.933054]).addTo(map)\r\n        .bindPopup('Aussiebar')\r\n    L.marker([60.169981, 24.935713]).addTo(map)\r\n        .bindPopup('Henry’s Pub')\r\n    L.marker([60.168883, 24.959184]).addTo(map)\r\n        .bindPopup('Holiday Bar')\r\n    L.marker([60.167942, 24.937396]).addTo(map)\r\n        .bindPopup('Pub Peräkammari')\r\n    L.marker([60.168257, 24.946347]).addTo(map)\r\n        .bindPopup('Kamp Galleria Shopping Centre')\r\n    L.marker([60.166514, 24.952767]).addTo(map)\r\n        .bindPopup('Vanha Kauppahalli')\r\n    L.marker([60.169500, 24.947959]).addTo(map)\r\n        .bindPopup('Kauppakeskus Kluuvi')\r\n    L.marker([60.167995, 24.939169],{icon: redIcon}).addTo(map)\r\n        .bindPopup('U.Kaleva Baari')\r\n    /*\r\n        // Funktio, joka ajetaan, kun paikkatiedot on haettu\r\n        function success(pos) {\r\n            const crd = pos.coords;\r\n\r\n            // Tulostetaan paikkatiedot konsoliin\r\n            console.log('Your current position is:');\r\n            console.log(`Latitude : ${crd.latitude}`);\r\n            console.log(`Longitude: ${crd.longitude}`);\r\n            console.log(`More or less ${crd.accuracy} meters.`);\r\n\r\n            // Käytetään leaflet.js -kirjastoa näyttämään sijainti kartalla (https://leafletjs.com/)\r\n            let map = L.map('map').setView([crd.latitude, crd.longitude], 13);\r\n            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {\r\n                attribution: '&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors',\r\n            }).addTo(map);\r\n\r\n            L.marker([crd.latitude, crd.longitude]).addTo(map)\r\n                .bindPopup('Olen tässä.')\r\n                .openPopup();\r\n\r\n            // Lisätään markkereita karttaan\r\n            L.marker([60.170544, 24.952126]).addTo(map)\r\n                .bindPopup('Helsingin tuomiokirkko')\r\n            L.marker([60.167755, 24.953720]).addTo(map)\r\n                .bindPopup('Kauppatori')\r\n            L.marker([60.168492, 24.956392]).addTo(map)\r\n                .bindPopup('Presidentinlinna')\r\n            L.marker([60.172761, 24.933079]).addTo(map)\r\n                .bindPopup('Eduskuntatalo')\r\n            L.marker([60.187976, 24.926732]).addTo(map)\r\n                .bindPopup('Helsingin Olympiastadion')\r\n            L.marker([60.168758, 24.940930]).addTo(map)\r\n                .bindPopup('Kolmen sepän patsas')\r\n            L.marker([60.1687587, 24.947631]).addTo(map)\r\n                .bindPopup('Esplanadi')\r\n            L.marker([60.173923, 24.938108]).addTo(map)\r\n                .bindPopup('Helsingin keskuskirjasto Oodi')\r\n            L.marker([60.175109, 24.931650]).addTo(map)\r\n                .bindPopup('Suomen kansallismuseo')\r\n            L.marker([60.168626, 24.959982]).addTo(map)\r\n                .bindPopup('Uspenskin katedraali')\r\n            L.marker([60.168411, 24.942174]).addTo(map)\r\n                .bindPopup('Stockmann')\r\n            L.marker([60.169385, 24.933234]).addTo(map)\r\n                .bindPopup('Kampin Keskus')\r\n        }\r\n\r\n        // Funktio, joka ajetaan, jos paikkatietojen hakemisessa tapahtuu virhe\r\n        function error(err) {\r\n            console.warn(`ERROR(${err.code}): ${err.message}`);\r\n        }\r\n\r\n        // Käynnistetään paikkatietojen haku\r\n        //navigator.geolocation.getCurrentPosition(success, error, options);*/\r\n</script>\r\n\r\n<footer>\r\n  <div id=\"karttadiv1\">\r\n    <p id=\"jees\"><a href=\"tekijat.html\">Tietoa meistä</a>\r\n  </div>\r\n  <div id=\"karttadiv2\">\r\n    <p id=\"jees\">&copy; 2020 VieraileHesassa.fi\r\n  </div>\r\n</footer>\r\n\r\n\r\n</body>\r\n</html>\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- kartta.html	(revision 1977771380ee3f5eb5de689e3001ddeccdeb51c7)
++++ kartta.html	(date 1602078994939)
+@@ -22,7 +22,14 @@
+ </nav>
+ <!-- haetaan käyttäjän paikkatiedot ja näytetään ne OpenStreetMapin ja Leaflet.js:n avulla -->
+ <div id="map"></div>
+-
++<figure>
++    <img src="images/kartta/marker-icon-blue.png">
++    <p>Nähtävyydet</p>
++    <img src="images/kartta/marker-icon-gold.png">
++    <p>Kaupat</p>
++    <img src="images/kartta/marker-icon-red.png">
++    <p>Ruokapaikat</p>
++</figure>
+ <link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.3/leaflet.css" rel="stylesheet">
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.3/leaflet.js"></script>
+ <script>
+@@ -32,8 +39,25 @@
+          timeout: 5000,
+          maximumAge: 0
+      };*/
+-    // Luodaan kartta ja markkerit
++    // Luodaan kartta
+     const map = L.map('map').setView([60.170544, 24.952126], 15);
++    // Lisätään värit
++    var blueIcon = new L.Icon({
++        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png',
++        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
++        iconSize: [25, 41],
++        iconAnchor: [12, 41],
++        popupAnchor: [1, -34],
++        shadowSize: [41, 41]
++    });
++    var goldIcon = new L.Icon({
++        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-gold.png',
++        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
++        iconSize: [25, 41],
++        iconAnchor: [12, 41],
++        popupAnchor: [1, -34],
++        shadowSize: [41, 41]
++    });
+     var greenIcon = new L.Icon({
+         iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
+         shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+@@ -50,6 +74,7 @@
+         popupAnchor: [1, -34],
+         shadowSize: [41, 41]
+     });
++
+     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+     }).addTo(map);
+@@ -73,17 +98,17 @@
+         .bindPopup('Suomen kansallismuseo')
+     L.marker([60.168626, 24.959982]).addTo(map)
+         .bindPopup('Uspenskin katedraali')
+-    L.marker([60.168411, 24.942174]).addTo(map)
++    L.marker([60.168411, 24.942174],{icon: goldIcon}).addTo(map)
+         .bindPopup('Stockmann')
+-    L.marker([60.169385, 24.933234]).addTo(map)
++    L.marker([60.169385, 24.933234],{icon: goldIcon}).addTo(map)
+         .bindPopup('Kampin Keskus')
+     L.marker([60.169090, 24.949379]).addTo(map)
+         .bindPopup('Aleksanterinkatu')
+-    L.marker([60.168809, 24.945464]).addTo(map)
++    L.marker([60.168809, 24.945464],{icon: redIcon}).addTo(map)
+         .bindPopup('Amarillo')
+-    L.marker([60.170186, 24.942497]).addTo(map)
++    L.marker([60.170186, 24.942497],{icon: goldIcon}).addTo(map)
+         .bindPopup('Kauppakeskus Citycenter')
+-    L.marker([60.168748, 24.937743]).addTo(map)
++    L.marker([60.168748, 24.937743],{icon: goldIcon}).addTo(map)
+         .bindPopup('Forum')
+     L.marker([60.172115, 24.936669]).addTo(map)
+         .bindPopup('Kiasma')
+@@ -95,51 +120,51 @@
+         .bindPopup('Helsingin päärautatieasema')
+     L.marker([60.169651, 24.930681]).addTo(map)
+         .bindPopup('Tennispalatsi')
+-    L.marker([60.168222, 24.951764]).addTo(map)
++    L.marker([60.168222, 24.951764],{icon: redIcon}).addTo(map)
+         .bindPopup('Bryggeri')
+-    L.marker([60.172349, 24.937356]).addTo(map)
++    L.marker([60.172349, 24.937356],{icon: redIcon}).addTo(map)
+         .bindPopup('Elmo Sport Bistro')
+-    L.marker([60.169421, 24.933279]).addTo(map)
++    L.marker([60.169421, 24.933279],{icon: redIcon}).addTo(map)
+         .bindPopup('Fafa’s')
+-    L.marker([60.167486, 24.950319]).addTo(map)
++    L.marker([60.167486, 24.950319],{icon: redIcon}).addTo(map)
+         .bindPopup('Kappeli Restaurant')
+-    L.marker([60.168198, 24.954901]).addTo(map)
++    L.marker([60.168198, 24.954901],{icon: redIcon}).addTo(map)
+         .bindPopup('Olo Restaurant')
+-    L.marker([60.169018, 24.952765]).addTo(map)
++    L.marker([60.169018, 24.952765],{icon: redIcon}).addTo(map)
+         .bindPopup('Restaurant Savotta')
+-    L.marker([60.168531, 24.937617]).addTo(map)
++    L.marker([60.168531, 24.937617],{icon: redIcon}).addTo(map)
+         .bindPopup('Suburritos Fresh Mexican Kitchen')
+-    L.marker([60.169979, 24.941897]).addTo(map)
++    L.marker([60.169979, 24.941897],{icon: redIcon}).addTo(map)
+         .bindPopup('Fazer Cafe')
+-    L.marker([60.168192, 24.946563]).addTo(map)
++    L.marker([60.168192, 24.946563],{icon: redIcon}).addTo(map)
+         .bindPopup('Ciao!Caffe')
+-    L.marker([60.168071, 24.945382]).addTo(map)
++    L.marker([60.168071, 24.945382],{icon: redIcon}).addTo(map)
+         .bindPopup('Gateau')
+-    L.marker([60.170557, 24.943451]).addTo(map)
++    L.marker([60.170557, 24.943451],{icon: redIcon}).addTo(map)
+         .bindPopup('La Torrefazione')
+-    L.marker([60.169168, 24.947702]).addTo(map)
++    L.marker([60.169168, 24.947702],{icon: redIcon}).addTo(map)
+         .bindPopup('Paulig Kulma')
+-    L.marker([60.169507, 24.958934]).addTo(map)
++    L.marker([60.169507, 24.958934],{icon: redIcon}).addTo(map)
+         .bindPopup('Relandersgrund Cafe')
+-    L.marker([60.168734, 24.950408]).addTo(map)
++    L.marker([60.168734, 24.950408],{icon: redIcon}).addTo(map)
+         .bindPopup('Robert’s Coffee')
+-    L.marker([60.169832, 24.943541]).addTo(map)
++    L.marker([60.169832, 24.943541],{icon: redIcon}).addTo(map)
+         .bindPopup('Starbucks Coffee')
+-    L.marker([60.168276, 24.938533]).addTo(map)
++    L.marker([60.168276, 24.938533],{icon: redIcon}).addTo(map)
+         .bindPopup('Irishpub')
+-    L.marker([60.170059, 24.933054]).addTo(map)
++    L.marker([60.170059, 24.933054],{icon: redIcon}).addTo(map)
+         .bindPopup('Aussiebar')
+-    L.marker([60.169981, 24.935713]).addTo(map)
++    L.marker([60.169981, 24.935713],{icon: redIcon}).addTo(map)
+         .bindPopup('Henry’s Pub')
+-    L.marker([60.168883, 24.959184]).addTo(map)
++    L.marker([60.168883, 24.959184],{icon: redIcon}).addTo(map)
+         .bindPopup('Holiday Bar')
+-    L.marker([60.167942, 24.937396]).addTo(map)
++    L.marker([60.167942, 24.937396],{icon: redIcon}).addTo(map)
+         .bindPopup('Pub Peräkammari')
+-    L.marker([60.168257, 24.946347]).addTo(map)
++    L.marker([60.168257, 24.946347],{icon: goldIcon}).addTo(map)
+         .bindPopup('Kamp Galleria Shopping Centre')
+-    L.marker([60.166514, 24.952767]).addTo(map)
++    L.marker([60.166514, 24.952767],{icon: goldIcon}).addTo(map)
+         .bindPopup('Vanha Kauppahalli')
+-    L.marker([60.169500, 24.947959]).addTo(map)
++    L.marker([60.169500, 24.947959],{icon: goldIcon}).addTo(map)
+         .bindPopup('Kauppakeskus Kluuvi')
+     L.marker([60.167995, 24.939169],{icon: redIcon}).addTo(map)
+         .bindPopup('U.Kaleva Baari')
+Index: css/kartta.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>body {\r\n    margin: 0;\r\n    padding: 0;\r\n    background-color: #E3B505;\r\n    height:100%;\r\n}\r\nnav {\r\n    width: 100%;\r\n    background: #084C61;\r\n    overflow: auto;\r\n}\r\nnav a {\r\n    width: 110px;\r\n    display:block;\r\n    padding: 20px 15px;\r\n    text-decoration: none;\r\n    font-family: 'Open Sans', sans-serif;\r\n    color:#f2f2f2;\r\n    text-align: center;\r\n}\r\nnav a:hover  {\r\n    background:#4F6D7A;\r\n    transition:0.5s;\r\n    text-transform: uppercase;\r\n}\r\nul {\r\n    list-style: none;\r\n    padding: 0;\r\n    margin: 0 0 0 150px;\r\n}\r\nli {\r\n    float: left;\r\n}\r\n/* Aktiivinen linkki */\r\n.active {\r\n    background:#4F6D7A;\r\n    text-transform: uppercase;\r\n}\r\n.logo img {\r\n    position: absolute;\r\n    margin-top:15px;\r\n    margin-left: 10px;\r\n    width: 125px;\r\n    height: 27px;\r\n}\r\na {\r\n    text-decoration: none;\r\n    color:#f2f2f2;\r\n}\r\n#map {\r\n    margin: 1% auto;\r\n    width:90%;\r\n    height:750px;\r\n    text-align: center;\r\n}\r\n/* Footteri */\r\n  footer {\r\n      border: black solid 1px;\r\n      width:100%;\r\n      height: 107px;\r\n      background:#56A3A6;\r\n      text-align: center;\r\n      font-family: 'Open Sans', sans-serif;\r\n      color:#f2f2f2;\r\n      text-align: center;\r\n      display: flex;\r\n      justify-content: center;\r\n      align-items: center;\r\n      flex-direction: column;\r\n\r\n}\r\n\r\n\r\nfooter a:hover  {\r\n    background:#4F6D7A;\r\n    transition:0.5s;\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- css/kartta.css	(revision 1977771380ee3f5eb5de689e3001ddeccdeb51c7)
++++ css/kartta.css	(date 1602079490850)
+@@ -53,6 +53,11 @@
+     height:750px;
+     text-align: center;
+ }
++figure {
++    display: flex;
++    align-items: center;
++    text-align: center;
++}
+ /* Footteri */
+   footer {
+       border: black solid 1px;
+@@ -62,7 +67,6 @@
+       text-align: center;
+       font-family: 'Open Sans', sans-serif;
+       color:#f2f2f2;
+-      text-align: center;
+       display: flex;
+       justify-content: center;
+       align-items: center;
