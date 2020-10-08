@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/ruokailu/fafas-900.jpg" afterDir="false" />
+    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="Tekijät sekä nähtävyydet tekstit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kartta.html" beforeDir="false" afterPath="$PROJECT_DIR$/kartta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shoppailu.html" beforeDir="false" afterPath="$PROJECT_DIR$/shoppailu.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,7 +298,14 @@
       <option name="presentableId" value="LOCAL−00035" />
       <updated>1602084649613</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Tekijät sekä nähtävyydet tekstit">
+      <created>1602154100186</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1602154100186</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,7 +325,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Added pages for food and shopping" />
     <MESSAGE value="Added directory for images and placeholder.png" />
     <MESSAGE value="Added navigation, footer and markers for map" />
     <MESSAGE value="Added map without current location and text over images" />
@@ -345,7 +349,8 @@
     <MESSAGE value="Added colors for markes" />
     <MESSAGE value="Added Media Querys for kartta figure" />
     <MESSAGE value="Added font to kartta figure p" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added font to kartta figure p" />
+    <MESSAGE value="Tekijät sekä nähtävyydet tekstit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tekijät sekä nähtävyydet tekstit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="715" y="343" key="#Notifications" timestamp="1601543579132">
@@ -380,10 +385,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601623541884" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602084663309">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602154106777">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602084663309" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602154106777" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602147167324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
