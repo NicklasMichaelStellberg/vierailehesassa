@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="Tekijät sekä nähtävyydet tekstit">
+    <list default="true" id="0250490f-1787-485f-bb6f-6674dc35feb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shoppailu.html" beforeDir="false" afterPath="$PROJECT_DIR$/shoppailu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -305,7 +306,13 @@
       <option name="project" value="LOCAL" />
       <updated>1602154100186</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL−00037" summary="Added text for images in shoppailu.html">
+      <created>1602162602552</created>
+      <option name="number" value="LOCAL−00037" />
+      <option name="presentableId" value="LOCAL−00037" />
+      <updated>1602162602552</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,7 +332,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Added directory for images and placeholder.png" />
     <MESSAGE value="Added navigation, footer and markers for map" />
     <MESSAGE value="Added map without current location and text over images" />
     <MESSAGE value="Added untracked files to project" />
@@ -350,7 +356,8 @@
     <MESSAGE value="Added Media Querys for kartta figure" />
     <MESSAGE value="Added font to kartta figure p" />
     <MESSAGE value="Tekijät sekä nähtävyydet tekstit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tekijät sekä nähtävyydet tekstit" />
+    <MESSAGE value="Added text for images in shoppailu.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added text for images in shoppailu.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="715" y="343" key="#Notifications" timestamp="1601543579132">
@@ -361,10 +368,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="719" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601368987691" />
-    <state x="585" y="97" key="CommitChangelistDialog2" timestamp="1602084647714">
+    <state x="585" y="97" key="CommitChangelistDialog2" timestamp="1602162599712">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602084647714" />
+    <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602162599712" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601468118877">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -385,13 +392,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601623541884" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602154106777">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602162610012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602154106777" />
-    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602147167324">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602162610012" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602165689060">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602147167324" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602165689060" />
   </component>
 </project>
