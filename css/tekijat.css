@@ -6,6 +6,8 @@
 
 html {
   overflow-y: scroll;
+  height: auto;
+
   }
 body {
     width: 100%;
@@ -13,6 +15,7 @@ body {
     overflow: hidden;
     background-color: #E3B505;
     position: absolute;
+
 }
 
 /* Navigaatio */
@@ -104,6 +107,8 @@ a {
       justify-content: center;
       align-items: center;
       flex-direction: column;
+      margin-bottom: 0;
+
 
 }
 
@@ -132,6 +137,7 @@ footer a:hover  {
   height: 360px;
   padding: 50px;
   border-radius: 50%;
+
 }
 
 
@@ -142,6 +148,8 @@ footer a:hover  {
   margin: 20px auto 0 auto;
   line-height: 2;
   padding: 0;
+  display: flex;
+  flex-wrap: wrap;
 
 
 }
