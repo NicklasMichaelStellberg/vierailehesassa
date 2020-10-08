@@ -91,6 +91,12 @@ footer a:hover  {
     figure {
         padding: 0;
     }
+    figure p {
+        padding: 1px;
+    }
+    figure img {
+        padding: 1px;
+    }
 }
 
 
