@@ -97,6 +97,11 @@ footer a:hover  {
     figure img {
         padding: 1px;
     }
+    #map {
+
+        width:70%;
+
+    }
 }
 
 
